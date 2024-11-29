@@ -3,83 +3,82 @@
     import {legendColor} from 'd3-svg-legend';
     import { onMount } from 'svelte';
 
-    export let data;
-    export let fullData;
+    let data = [];
+    let fullData = [];
 
-    export let width = 560;
-    export let height =  600;
+     let width = 800;
+    let height = 700;
 
     let proj = d3.geoMercator()
-        .scale(400)
+        .scale(700)
         .center([-98.35, 39.50]) //us center
         .translate([width /2, height/2]);
 
     let path = d3.geoPath().projection(proj);
+    let customColors = [
 
+    "#8c2d04", "#b73f06",  "#f86f2f", "#ff9765", "#ffbb98", "#ffdbc9", "#fafafa"
+    ];
     let scale = d3.scaleThreshold()
     .domain([90, 3000,7000, 14000, 20000, 27000, 34000])
-    .range(d3.schemeBlues[7]);
+    .range(customColors.reverse());
 
     //let scale = d3.scaleSequential(d3.interpolateBlues);
 
     let legend; 
     let tooltip;
     const formatComma = d3.format(",");
+    
+    onMount(async function () {
+    let geoData = await d3.json('merged_us_ds_employment.geojson');
+    geoData.features.forEach(feature => {
+        const employmentPerThousand = feature.properties["Employment per 1,000 jobs"];
+        if (employmentPerThousand !== "-" && employmentPerThousand !== null) {
+          feature.properties["Employment per 1,000 jobs"] = parseFloat(employmentPerThousand);
+        } else {
+          feature.properties["Employment per 1,000 jobs"] = null; // Handle cases where the value is "-" or null
+        }
+      });
+    data = geoData.features;
+    fullData = [...data];
+    tooltip = d3.select(tooltip)
+        .style("position", "absolute")
+        .style("opacity", 1)
+        .style("background", "#e8e2e2")
+        .style("border", "0px")
+        .style("border-radius", "8px")
+        .style("padding", "8px")
+        .style("pointer-events", "none");
+});
 
     $: if (data.length > 0) {
-   // const validEmployment = fullData
-     // .map((d) => +d.properties.Employment)
-    //.filter((Employment) => !isNaN(Employment) && Employment !== null);
-    //const max_emp = d3.max(validEmployment); 
-    //scale.domain([90,max_emp]); // hardcoded the minimum because I need to decide if I want to include Alaska, Puerto Rico
-   //scale.domain(d3.extent(fullData.map((d) => +d.properties.Employment)));
-   const customLabels = [
-        `< ${formatComma(90)}`,
-        `${formatComma(90)} - 3k`,
-        `3k - 7k`,
-        `7k - 14k`,
-        `14k - 20k`,
-        `20k - 27k`,
-        `>33k`
-    ];
-
-
-    //console.log("Color scale domain:", scale.domain());
-    // Force legend to update with new scale
-    const colorLegend = legendColor()
-                .orient('horizontal')
-                .shapeWidth(70)
-                .labelFormat(d3.format(","))
-                .labels(customLabels) 
-                .cells(7)
-                .scale(scale);
-     //d3.select(legend).selectAll("*").remove();
-
-    d3.select(legend)
-                .call(colorLegend);
+    const customLabels = [
+          `< ${formatComma(90)}`,
+          `${formatComma(90)} - 3k`,
+          `3k - 7k`,
+          `7k - 14k`,
+          `14k - 20k`,
+          `20k - 27k`,
+          `>33k`
+      ];
+      const colorLegend = legendColor()
+                  .orient('horizontal')
+                  .shapeWidth(70)
+                  .labelFormat(d3.format(","))
+                  .labels(customLabels) 
+                  .cells(7)
+                  .scale(scale);
+      d3.select(legend)
+                  .call(colorLegend);
     }
-  
-    
-    // $: scale = d3.scaleOrdinal(d3.schemeDark2)
-    //   .domain(d3.extent(data.map((d) => +d.properties.name10)));
-    // $: scale = d3.scaleSequential(d3.interpolateGreens)
-     //  .domain(d3.extent(data.map((d) => +d.properties.employment)));
-    // $: scale = d3.scaleSequential(d3.interpolatePiYG)
-       // .domain([d3.min(data.map((d) => +d.properties.employment)), d3.median(data.map((d) => +d.properties.employment)), d3.max(data.map((d) => +d.properties.employment))]);
-     
-      //console.log("Color scale domain:", scale.domain());
-
-   
-
-        function getFillColor(d) {
-          if (d.properties["Area Name"] == "Wyoming" || d.properties["Area Name"] == "Kansas") {return 'lightgrey';}
-        
-   else if (isNaN(+d.properties.Employment)) {
-      return 'black';
-    } else {
-      return scale(+d.properties.Employment);
+     function getFillColor(d) {
+    if (d.properties["Area Name"] == "Wyoming" || d.properties["Area Name"] == "Kansas") {return 'lightgrey';}     
+      else if (isNaN(+d.properties.Employment)) {
+          return 'black';
+        } else {
+          return scale(+d.properties.Employment);
+        }
     }
-  }
 
   function showTooltip(event, d) {
     tooltip.style("opacity", 1)
@@ -97,16 +96,6 @@
     tooltip.style("opacity", 0);
   }
 
-  onMount(() => {
-    tooltip = d3.select(tooltip)
-        .style("position", "absolute")
-        .style("opacity", 1)
-        .style("background", "lightsteelblue")
-        .style("border", "0px")
-        .style("border-radius", "8px")
-        .style("padding", "8px")
-        .style("pointer-events", "none");
-});
 
 
 </script>
@@ -128,7 +117,6 @@
       />
       
                 {/each}
-        
                 {#each fullData as d}
                 <path 
                   class="geooverlay" 
@@ -157,9 +145,10 @@
 }
 
     .legend-title {
-    font-size: 16px;
+    font-size: 22px;
     font-weight: bold;
-    fill: black;
+    fill: #271103;
+    font-family: Lato, sans-serif;
   }
   
   .tooltip {
@@ -169,7 +158,7 @@
     height: auto;
     padding: 8px;
     font: 12px sans-serif;
-    background: lightsteelblue;
+    background: rgb(228, 207, 204);
     border: 0px;
     border-radius: 8px;
     pointer-events: none;

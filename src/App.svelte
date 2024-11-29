@@ -6,6 +6,7 @@
   import * as d3 from 'd3'; 
   import LineCompare from "./linecompare.svelte";
   import BarchartScrolly from "./barchartScrolly.svelte";
+  import EmploymentMap from "./employmentMap.svelte";
   let value;
   let data= [];
   const steps = [    {
@@ -68,6 +69,7 @@
   </section>
   <div class="subheading">
   <h1> What does the Employment Landscape Look Like?</h1>
+  <h2>Let's first explore the key summary statistics of Data Science jobs in the U.S. from Bureau of Labor Statistics.</h2>
    </div>
 <div class="container">
   <div class="scrolly">
@@ -80,7 +82,6 @@
       {/each}
     </Scrolly>
   </div>
-  
   <div class="graph" style="position: relative; height: 400px;"> <!-- Adjust height as needed -->
     <div style="position: absolute; top: 0; left: 0; right: 7%; display: {value === 0 || value === 1 ? 'block' : 'none'};">
       <LineCompare {value} />
@@ -90,7 +91,12 @@
     </div>
   </div>
 </div>
-
+<div class="subheading">
+  <h2>States like California and Texas are leading the employment of data scientists</h2>
+   </div>
+<div>
+  <EmploymentMap />
+</div>
 
 <section class="additional-container">
   <div class="text-content">
@@ -101,19 +107,21 @@
     <ul>
       <li>Employment of data scientists is projected to grow 36 percent from 2023 to 2033, much faster than the average </li>
       <li> ~ 20,800 new openings for data scientists are projected each year</li>
-      <li>However, DS graduates have increased to over 46k per year </li>
+      <li>However, DS graduates have also increased to over 46k per year </li>
+      <li>Whether the market will be saturated will depend on many factors</li>
     </ul>
   </div>
 </section>
 
 
 <div class = 'subheading'>
-  <h1>What are the key skills for data scientists</h1> 
+  <h1>What skills are needed to become a data scientist?</h1> 
   <h2>From the requirements of 100 LinkedIn data science job postings, we compiled the essential education, hard and soft skill requirements asked by industries</h2> 
 </div>
 
 <div class = 'subheading'>
-  <h1>What do data scientists work on</h1> 
+  <h1>What do data scientists work on?</h1> 
+  <h2>Despite being an interdisciplinary field, the key responsibilites of DS from 100 job posts can be summarised to 5 main tasks.</h2>
 </div>
 </main>
 
@@ -356,7 +364,7 @@
     font-size: 3rem; 
     font-family:  'Fact', sans-serif; 
     font-weight: 800; /* Set font weight to bold */ 
-    margin-top: 10vh;
+    margin-top: 15vh;
     margin-bottom: 5vh;
   }
   .subheading h2 {
@@ -369,7 +377,7 @@
     font-size: 26px; 
     font-family:  'Lato', sans-serif; 
     margin-top: 0vh;
-    margin-bottom: 10vh;
+    margin-bottom: 0vh;
   }
   .banner .text img {
     position: relative;
@@ -398,7 +406,7 @@
 
   .additional-container {
     display: flex;
-    margin-top: 5vh;
+    margin-top: -5vh;
     padding: 2rem;
     align-items: center;
     width: 100vw;
@@ -414,10 +422,10 @@
     border-radius: 12px;
     font-family: 'Lato', sans-serif;
     margin-left: 0vw;
-    margin-right: 25%;
-    height:40vh;
+    margin-right: 30vw;
+    height:35vh;
     min-width: 300px;
-    width: 50vw auto;
+    width: 40vw auto;
     overflow: auto; /* Allow scrolling if content exceeds height */
     word-wrap: break-word; /* Wrap long words */
     overflow-wrap: break-word; /* Ensure wrapping for text */
@@ -426,7 +434,8 @@
 
   .text-container ul {
     list-style-type: disc;
-    padding-left: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem
     
   }
   .text-container li {
@@ -438,7 +447,7 @@
     font-size: 2.5rem;
     margin-bottom: 1rem;
     margin-right: 5vw;
-    margin-left: 5vw;
+    margin-left: 2vw;
     flex:0.7
   }
   .overlay {
@@ -447,15 +456,19 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(68, 49, 43, 0.8); /* Semi-transparent background */
+    background-color: rgba(128, 92, 82, 0.8); /* Semi-transparent background */
+    height:100%;
+    width: 100%;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2rem;
+    font-size: 1.7rem;
+    font-family: 'Lato', sans-serif;
     border-radius: 12px;
     cursor: pointer;
     transition: opacity 0.3s ease, transform 0.3s ease;
+    pointer-events: auto;
   }
   .text-container:hover .overlay {
     opacity: 0;
@@ -468,6 +481,7 @@
     width: 100vw;
     height: 100vh;
     margin-top: 10vh;
+    margin-bottom: -10vw;
   }
 
 </style>
