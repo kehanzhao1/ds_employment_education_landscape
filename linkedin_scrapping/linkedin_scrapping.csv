@@ -1,0 +1,1477 @@
+﻿,Requirements,Responsibility,Qualification
+Blizzard Entertainment,"Programming proficiency in Python and/or R
+Knowledge of Spark
+Knowledge of data systems, relational databases, querying with SQL
+Experience with engineering tools and methods (github, unit testing, continuous integration, etc.)
+Experience with machine learning tools (SciKit-Learn, TensorFlow, etc.)
+Experience building web frontends (Javascript, JQuery, D3.js, React, etc.)","This is an exciting role in our AI team that allows the candidate to interact with multiple teams and senior leaders to build up skills and capabilities. The candidate will learn how to solve interesting problems in a systematic way specifically in ads space for gaming. The team has a diverse team of talents whom love innovation, collaboration, and having fun while doing it. Projects may include life time value evaluation and framework research and crash analysis.","Pursuing an associates, bachelors, masters, or PhD and graduating December 2025 – July 2026"
+Notion,"You have spent meaningful time as a data scientist partnering with product and engineering teams. You can draw on that experience to identify where data can have the most impact and clearly communicate to your partner teams what that impact is.
+You have expertise in SQL and at least one scripting language (ideally Python or R).
+You know how to use statistical inference and experimentation to drive actionable recommendations.
+You have experience building predictive models, and you know how to evaluate their effectiveness.
+You are comfortable transforming raw data to build your own data sets if the measure you need doesn't exist yet.
+You have a bias for using the right tools to get a job done with maximum efficiency. You have experience making tradeoffs between speed and accuracy.","You will apply your expertise in statistical inference, data mining, and the presentation of data to see beyond the numbers and understand how our users interact with Notion
+You will dive into ambiguous areas, define problems and opportunities for the team to work on the next influential project
+You'll design the right set of experiments or analyses to evaluate the success of new features
+You'll partner closely with a product, engineering, and marketing pillar at every step of the development process, driving forward data science and analytics work in that area.
+You'll work with your teams to determine both north star and operational metrics, and build and maintain the dashboards that those teams rely on for monitoring progress and making key decisions.
+You'll influence your product roadmap by communicating your findings with the rest of the company, and driving and verifying change in our product and business. (Insights are useful. Impact is even better!)",
+"
+The Washington Post
+ Summer Intern, Applied ML Scientist ","Senior year or graduate students in Computer Science, Mathematics, Statistics, or related field
+Machine learning and data science experience 
+Experience using Python or R
+Experience with AWS","Apply machine learning technologies to build statistical models with large amounts of data.
+Transform the machine learning models into production systems solving real business problems.","Senior year or graduate students in Computer Science, Mathematics, Statistics, or related field"
+"Coinbase
+Share
+Show more options
+Data Science Intern ","
+Some experience or coursework in statistical modeling, data analysis, or other related quantitative field (e.g., hard science, economics, math, etc.).
+
+Basic understanding of statistical concepts and a keen interest in furthering this knowledge (in A|B testing, causal inference, ML, etc.).
+
+Familiarity with data analysis using SQL.
+
+Some experience or coursework in programming/modeling, preferably in Python.
+
+An embodiment of our core cultural values: clear communication, positive energy, continuous learning, and efficient execution.","Collaborate with product teams to create analyses and build models to drive positive business impact.
+
+Assist in designing and conducting experiments.
+
+Support the team in measuring business performance and help refine core metrics.
+
+Practice data-driven storytelling, distilling complex analyses into clear, actionable insights.
+
+Participate in analytical deep dives alongside senior team members to understand and address complex business problems.
+
+Assist in the development and maintenance of data pipelines, ensuring data integrity and accuracy.","Currently pursuing a degree or certificate in Math, Stats, Physics, Computer Science or a related discipline."
+"
+Meta
+Share
+Show more options
+Data Scientist Intern, Product Analytics","
+Curious, self-driven, analytical and excited to play with data.
+Ability to thrive in a fast paced work environment.
+Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R).
+Intent to return to a degree-program after the completion of the internship.","Perform large-scale data analysis to extract useful business insights.
+Identify actionable insights, suggest recommendations and influence the direction of the business by communicating results to cross-functional groups.
+Work closely with a Product Manager and Engineering team to proactively create rules and manage decisions.
+Classify leads so that the teams work on the most valuable cases.
+Suggest improvements in the tools and techniques to help scale the team and/or build 0->1 convictions on new initiatives. Model solutions around what delivers long-run user value to our users","Currently is in the process of obtaining a Bachelor’s and/or Master’s degree in Mathematics, Statistics, a relevant technical field, or equivalent practical experience."
+"Microsoft
+Share
+Show more options
+Data Scientist","Deep knowledge of at least one modern statistical programming language, such as R or Python.
+Experience with data query languages such as SQL and management platforms such as SQL Server or Cosmos Experience building data pipelines, including automated data quality checking.
+Experience with Exploratory Data Analyses, inference analysis, predictive analysis (Regression, Classification etc.,) and forecasting.
+Experience with experiment design and analysis.
+Experience with modern data infrastructure, such as Spark, cloud services, or Databricks.
+Demonstrated experience using visualization to explain business insights from data.
+Effective communication skills with a broad range of audiences and ability to influence without authority. ","Develop a deep understanding of modern and legacy data systems and build data pipelines that enable experimentation and data analysis at scale.
+Understand business needs and develop appropriate data analyses to meet those needs ranging from exploratory data analysis, inference, and experimentation.
+Investigate data quality issues that threaten to undermine econometrically sound analysis by identifying clear data requirements.
+Together with your team, interpret and present findings to stakeholders.","Doctorate in Data Science, Computer Science, Electrical Engineering, Mathematics, Economics, Operations Research, or related field
+OR Master's Degree in Data Science, Computer Science, Electrical Engineering, Mathematics, Economics, Operations Research, or related field AND 1+ year(s) data-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results) or consulting experience
+OR Bachelor's Degree in Data Science, Computer Science, Electrical Engineering, Mathematics, Economics, Operations Research, or related field AND 2+ years data-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
+OR equivalent experience."
+"Adobe
+Share
+Show more options
+2025 Intern - Data Scientist "," Solid understanding of SQL and Python
+ Strong quantitative background, with a minimum expertise in probability theory, and statistical inference. 
+ Understanding of machine learning concepts and a track record solving problems with these methods
+ Passion and empathy for creative individuals in an industry undergoing transformation due to AI advances
+ Ability to participate in a full-time internship between May-September"," Leverage data to improve Adobe’s flagship creative products and unlock the creative potential of millions of digital artists, designers, illustrators, photographers and communicators
+ Apply cutting-edge ML algorithms to enable personalized and contextualized in-product experiences, owning the end-to-end process from proof-of-concept to production
+ Collaborate with research, design, product management and engineering to solve business challenges and enable data-driven decisions by providing timely and actionable product insights
+ Influence Adobe product leadership and set the industry standard for AI-enhanced creativity, bringing together innovation, empathy for customers, and adherence to Adobe’s ethical principles","Currently enrolled full-time and pursuing a Master’s or PhD in Computer Science, Data Science, Human-Computer Interaction or a related field; or equivalent experience required"
+"Visa
+Share
+Show more options
+Data Scientist","Strong background in two or more of the following areas: machine learning, AI algorithms, computations, statistical learning theory, scalable systems (e.g. Spark, Hadoop), large scale data analysis, optimization, functional analysis and deep learning. 
+ Experience with a range advanced techniques and emerging approaches to big data and data science (Python, Spark, TensorFlow, H2O, Dask, etc),extensive experience with SQL, Hive for extracting and aggregating data
+ Good oral and written communication skills and attention to details
+ Must be a team player and capable of handling multitasks in a dynamic environment","Execute model development and performance tracking for risk models, generate performance analysis at the aggregate level, as well as issuer level. Interpret and present performance results to non technical audience. 
+Compile complex predictive model packages for production deployment, support model installations, and monitor and calibrate production models
+Propel analytic product development via conducting statistical analyses on various data sources, and add values to products by being innovative and applying the analysis
+Find opportunities to create and automate repeatable analyses or build self service tools for business users
+Support sales and business efforts with sound statistical and financial analysis, execute ad hoc analyses to meet the fast changing market demands
+Conduct transaction data analyses with Hadoop, Cloud and big data technologies for internal and external product owners, and develop deeper insights into the products using advanced statistical methods
+Ensure project delivery within timelines and meet critical business needs
+Promote big data innovations and analytic education throughout the Visa organization","3 or more years of work experience with a Bachelor’s Degree or more than 2 years of work experience with an Advanced Degree (e.g. Masters, MBA, JD, MD)
+ A Master's Degree in a quantitative field, such as Statistics, Mathematics, Operational Research, Computer Science, Economics, or engineering
+ Successful internships or 6 month of experience in a predictive modeling function
+ Preference given to candidates with multiple years working experience in predictive modeling functions
+ Candidates with a PhD in a quantitative field, such as Statistics, Mathematics, Operational Research, Computer Science, Economics, or engineering preferred"
+"The Voleon Group
+Share
+Show more options
+Data Scientist (New York)","Experience using statistical methods to analyze data, identify patterns, conduct root cause analysis, discover insights, and recommend solutions
+Ability to frame and answer questions mathematically
+Ability to infer useful forward-looking directions from results of retrospective analysis
+Fluency in managing, processing, and visualizing tabular data using a combination of SQL, Pandas, and R
+Basic software development skills and experience with bash, linux/unix, and git
+Ability to refine requirements from ambiguous requests to produce reports demonstrating excellence in communication","Design and implement systems to ensure data correctness and monitor data health in data stores and live feeds
+Proactively identify abnormal production behavior and communicate them clearly to relevant stakeholders
+Perform extemporaneous analyses on research and production trading systems with leadership 
+Harness financial expertise and statistical analysis to gain actionable insights into our production trading and research systems
+Design and implement analysis pipelines that automate those analyses found to be valuable for ongoing monitoring","1+ years of applied end-to-end industry experience, including internships working with complex datasets, including curation, querying, aggregation, exploratory data analysis, and visualization"
+"Google
+Share
+Show more options
+Business Data Scientist, Economics ","Experience in deploying causal inference tools to answer business questions (e.g., Difference-in-Differences, Propensity Score Models, Instrumental Variables).
+Strong familiarity and intuition around data.","Build and maintain large, organized data sets from complex, unstructured, and dynamic data sources.
+Conduct exploratory data analysis to develop and test hypotheses.
+Work with teammates and business partners to develop analytical solutions to complex business problems.
+Provide analytical and intellectual support to partner teams.","Master’s degree in Economics or a related quantitative discipline, or equivalent practical experience.
+Experience in one or more database query language (e.g., SQL).
+Experience in Python or R, and with scientific computing.
+Experience with quantitative analytics in data engineering and data analysis."
+"
+Zoox
+Share
+Show more options
+Automated Machine Learning Intern ","Strong programming skills in Python
+Knowledge of containerization and orchestration tools (e.g., Docker)
+Familiarity with cloud platforms such as AWS
+Basic understanding of machine learning concepts and frameworks (e.g., Pytorch)
+Experience with system design and understanding of complex systems",,Currently pursuing a Master's/PhD in Machine Learning or Computer Science
+"Cytokinetics
+Share
+Show more options
+Intern - AI Data Scientist","Programming skills in Python, and scientific computing libraries such as pandas, numpy, scikit-learn
+Experience with AWS services (Bedrock, Lambda, S3)
+Familiarity with modern JavaScript frameworks
+Understanding of RESTful APIs and microservices architecture
+Experience with version control systems (Git)
+Basic understanding of machine learning concepts
+Previous work with large language models (LLMs)
+Frontend development using Vue.js
+API development and integration experience
+Experience with SQL and database technologies (i.e. PostgreSQL or Oracle)
+Understanding of software development best practices",,
+"Microsoft
+Share
+Show more options
+Data Scientist "," Business Understanding and Impact Data Preparation and Understanding Modeling and Statistical Analysis Leverages knowledge of machine learning solutions (e.g., classification, regression, clustering, forecasting, natural language processing [NLP], image recognition) and individual algorithms (e.g., linear and logistic regression, k-means, gradient boosting, autoregressive integrated moving average [ARIMA], recurrent neutral networks [RNN], long short-term memory [LSTM] networks) to identify the best approach to complete objectives. Understands modeling techniques (e.g., dimensionality reduction, cross-validation, regularization, encoding, assembling, activation functions) and selects the correct approach to prepare data, train and optimize the model, and evaluate the output for statistical and business significance. Understands the risks of data leakage, the bias/variance tradeoff, methodological limitations, etc. Writes all necessary scripts in the appropriate language: T-SQL, U-SQL, KQL, Python, R, etc. Constructs hypotheses, designs controlled experiments, analyzes results using statistical tests, and communicates findings to business stakeholders. Effectively communicates with diverse audiences on data-quality issues and initiatives. Understands operational considerations of model deployment, such as performance, scalability, monitoring, maintenance, integration into engineering production system, and stability. Develops operational models that run at scale through partnership with data engineering teams.","Impact on one of the fastest growing teams in Industry Solutions that is critical to the Microsoft AI strategy. 
+Work in a world class team of Data Scientist, AI Engineers, Data Engineers, Architects, and leadership that will help you grow your career. 
+Be part of a dynamic AI community that will enable you to learn, collaborate, and contribute with the top minds in the industry. ","
+Doctorate in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field
+OR Master's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 1+ year(s) data-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results) or consulting experience
+OR Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 2+ years data-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
+OR equivalent experience."
+"Character.AI
+Share
+Show more options
+Data Scientist, Product","Have 5+ years of experience at leading chat, social media, or UGC product companies
+Have a strong intuition for choosing the right questions to ask and quickly driving to key insights
+Excel at turning findings into actionable next steps and working with engineering to execute
+Enjoy leaning into high velocity experimentation
+Are capable of standing up Character.AI's data science efforts, including the tools and systems that you will need to work effectively as we scale",,
+"
+Koddi
+Share
+Show more options
+Data Scientist","Experience in a similar role in adtech.
+Demonstrated expertise with Python. 
+Experience with machine learning tools and platforms including: Spark, Databricks,TensorFlow, Pytorch.
+Worked extensively with machine learning techniques and advanced analytics (e.g. Deep Learning, Bandits, Causal Inference, Mathematical Optimization)
+Advanced SQL skills - comfortable working with very large data sets preferably, you have experience with cloud environments such as AWS.","
+Work closely with data scientists, software engineers, and business stakeholders to understand company goals and objectives. Translate that understanding into machine learning solutions that address business challenges and opportunities.
+Develop highly scalable machine learning and artificial intelligence solutions that address key growth challenges and provide meaningful insights on problems such as cross-channel optimization, and targeting optimization.
+Build production grade models on large-scale datasets to optimize Ad delivery, relevancy performance by utilizing advanced statistical modeling, machine learning, and optimization and marketing science research.
+Design and execute A/B tests to answer business questions
+Provide thought leadership in applying innovative machine learning techniques to solve complex data science problems.
+Stay current with advances in machine learning research and technologies, exploring new approaches and methodologies to enhance model capabilities and effectiveness.
+Document methodologies, processes, and findings, sharing insights and best practices with the broader team to foster knowledge sharing and collaboration.
+Participate in project planning/prioritization meetings, partner meetings, etc","Advanced degree in statistics, computer science, operational research, engineering or related field. PhD preferred
+Minimum 3 years of experience in a similar role. "
+"Anaconda, Inc.
+Share
+Show more options
+Data Scientist, Product","You have 4+ years of experience as a data scientist collaborating with product and engineering teams, using data to identify key opportunities and clearly communicate its impact
+You have strong proficiency in Python programming and its data science libraries (NumPy, Pandas, Scikit-learn)
+Extensive experience with machine learning techniques and their implementation in Python
+Solid understanding of statistical analysis and hypothesis testing
+Proficiency in using Git for version control and collaborative development
+Familiarity with SQL and NoSQL databases
+Experience with AWS or equivalent cloud services
+Experience with Snowflake or similar SQL cloud data warehouse
+Strong analytical and problem-solving skills
+Track record of delivering data-driven solutions in a professional setting","Develop and implement advanced machine learning models and algorithms to solve complex business problems
+Analyze large datasets using Python and other relevant tools in the Anaconda ecosystem
+Collaborate with stakeholders to identify opportunities for data-driven solutions
+Design and conduct statistical experiments to test hypotheses and validate results
+Create data visualizations and dashboards to communicate insights effectively
+Present results to stakeholders across the organization including senior leadership
+Contribute to the development of Anaconda's open-source data science tools and libraries
+Optimize data pipelines and workflows for improved efficiency and scalability
+Mentor junior data scientists and provide technical guidance to team members
+Stay up-to-date with the latest advancements in data science and machine learning
+Participate in the data science community through conferences, workshops, and publications","You have 4+ years of experience as a data scientist collaborating with product and engineering teams, using data to identify key opportunities and clearly communicate its impact"
+"Verily
+Share
+Show more options
+Data Scientist, Registries and Real-world Data ","2+ years experience applying advanced machine learning and AI techniques (supervised and unsupervised methods, LLMs, NLP) to clinical data.
+Direct experience working with and curating real-world data, such as EHR, including a deep understanding of the complexities of this structured and unstructured clinical data.
+Strong proficiency in Python. Familiarity with software engineering practices and experience developing production software.","Work closely with cross-functional partners to design and create longitudinal datasets integrating multiple data sources.
+Build and implement highly accurate machine learning models / AI tools using sparsely labeled healthcare datasets.
+Implement, build on and augment existing LLM/NLP tools to maximize the value of using unstructured medical data across a range of research and care applications.
+Become an expert in our data’s capabilities and limitations. Solve difficult, non-routine analysis problems, handling data challenges from a real-world setting.
+Communicate technical methods and results clearly in well structured reports and presentations to a range of technical and non-technical audiences.","Advanced degree in a quantitative discipline (e.g., data sciences, statistics, biomedical informatics, computer science, applied mathematics, or similar), or equivalent practical experience."
+"Amazon
+Share
+Show more options
+Data Scientist, Amazon"," 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+ 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience
+ Experience applying theoretical models in an applied environment  Experience in Python, Perl, or another scripting language
+ Experience in a ML or data scientist role with a large technology company"," Lead Data Science solutions from beginning to end.
+ Deliver with independence on challenging large-scale problems with complexity and ambiguity.
+ Write code (Python, R, Scala, SQL, etc.) to obtain, manipulate, and analyze data.
+ Build Machine Learning and statistical models to solve specific business problems.
+ Retrieve, synthesize, and present critical data in a format that is immediately useful to answering specific questions or improving system performance.
+ Analyze historical data to identify trends and support optimal decision making.
+ Apply statistical and machine learning knowledge to specific business problems and data.
+ Formalize assumptions about how our systems should work, create statistical definitions of outliers, and develop methods to systematically identify outliers. Work out why such examples are outliers and define if any actions needed.
+ Given anecdotes about anomalies or generate automatic scripts to define anomalies, deep dive to explain why they happen, and identify fixes.
+ Build decision-making models and propose effective solutions for the business problems you define.
+ Conduct written and verbal presentations to share insights to audiences of varying levels of technical sophistication."," 2+ years of data scientist experience
+ 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+ 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience
+ Experience applying theoretical models in an applied environment"
+"Jellyfish
+Share
+Show more options
+Data Scientist, Product ","Product mindset, keenly focused on the value users and customers can get from the experiences you’re helping to build
+Routinely take an iterative, incremental approach to arrive at an ultimate solution
+Effective and efficient communication with both technical and non-technical colleagues; thrive working as part of a cross-functional team
+Can handle ambiguity and work with stakeholders to understand the essence of their questions and requests to get to a set of requirements that are tractable
+Reliable intuitions about data, and can generally address them without guidance
+Proven experience in data science, solid python skills, proficient SQL knowledge
+Can independently reduce complex problems into a solvable framework
+Interest in prototyping, building, testing, and deploying advanced algorithms and technology
+Can balance project goals, business needs, and technical solutions
+Enjoy working with real-world data, and excited about testing your ideas and prototypes in partnership with real customers
+Love learning new things and teaching others what you know
+Adapting data science algorithms for production applications
+Building pipelines for data science tasks such as data collection, model training, or parameter optimization
+Our engineering technology stack (Python 3, Django, Postgres, Docker, AWS)","Collaborate with product managers, designers, and engineers to design and build compelling, innovative new experiences that drive real change for our customers
+Apply techniques from statistics, signal processing, natural language processing, machine learning, generative AI, and other areas to develop new algorithms and power advanced features within Jellyfish
+Plan, implement, and deploy improvements to the core algorithms and inference engines that power the Jellyfish platform
+Make improvements to how we validate, test, and deploy data science algorithms and models
+Measure the impact of the experiences the team’s building",
+"Microsoft
+Share
+Show more options
+Data & Applied Scientist II ","statistics, predictive analytics, research","Participates in collaborative relationships with relevant product and business groups inside or outside of Microsoft and provides expertise or technology to create business impact. Collaborates with and bridges the gap between researchers (e.g., in community, Microsoft Research [MSR], or in their own organizations) and development teams. With limited guidance from others, works to create product impact. Gains expertise in one or more subareas of research. Gains deep knowledge in a service, platform, or domain and acquires knowledge of changes in industry trends and advances in applied technologies. Applies strategy by understanding the role in the team and applying the strategy provided by senior team members and incorporates state-of-the-art research. Researches and develops an understanding of tools, technologies, and methods being used in the community that can be utilized to improve product quality, performance, or efficiency. Reinforces a positive environment by applying best practices. Performs documentation of work in progress, experimentation results, plans, etc. Understands and follows ethics and privacy policies when executing research processes and/or collecting data/information. Stay abreast of the latest advancements in AI, machine learning, information retrieval, and recommendation systems, and contribute to the company's intellectual property through patents and publications.","Bachelor's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 2+ years related experience (e.g., statistics, predictive analytics, research)
+o OR Master's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 1+ year(s) related experience (e.g., statistics, predictive analytics, research)
+o OR Doctorate in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field
+o OR equivalent experience."
+"Moloco
+Share
+Show more options
+Machine Learning Engineer Intern ","Strong background in data structures and algorithms.
+Strong coding and problem solving skills.
+Familiar with distributed systems and/or databases
+Fluent with at least one programming language","Conducting experiments on state-of-the-art machine learning models using Tensorflow for real world, large scale problems.
+Constructing and enhancing data pipelines for model training and serving using Google cloud products such as Apache Beam/Dataflow, BigQuery, and BigTable.
+Building machine learning productivity tools (e.g. model quality measurement), deploy them in Kubernetes, and help model engineers adopt them.",
+"Clay
+Share
+Show more options
+Data Scientist","Expert in SQL and Python or R
+Robust understanding of statistical and machine learning methods
+Experience with data transformation tools (dbt) and data orchestration tools (Dagster or Airflow)","Drive strategic insights: Own the full-funnel insight process, transforming data into actionable recommendations for go-to-market and product
+Deliver clarity: Translate complex data findings into simple, actionable insights that resonate with both technical and non-technical stakeholders
+Set up data infrastructure: Contribute to building and scaling our data transformation and orchestration capabilities, ensuring accurate and timely data delivery
+Empower self-serve analytics: Develop a robust self-serve analytics platform that empowers all teams to access and leverage data effectively
+Champion a data-driven culture: Establish best practices that encourage non-data teams to use insights effectively
+Experiment: Design and set up experiments that test hypotheses and measure impact, driving continuous improvement in processes and products",
+"Docusign
+Share
+Show more options
+Applied Scientist","Experience in designing, developing, and monitoring machine learning and deep learning solutions
+Experience programming in PyTorch, TensorFlow, or equivalent deep learning framework
+Fluent in Python Demonstrated experience developing and deploying large scale document understanding models in production
+Experience in latest NLP techniques including LLMs and language representations
+Experience in text extraction techniques, especially using OCR and direct extraction from docx, images, and pdfs","Build industry-leading, innovative AI/ML solutions. You will be able to get your hands on all aspects of the AI/ML feature life cycle by tapping into your expertise in NLP and document understanding. You will be building production-level machine learning models that deliver more personalized and automated customer experiences throughout the Docusign Agreement Platform.",5+ years of related experience with a Bachelor’s degree; or 3+ years related experience with a Master’s degree; or a PhD without experience; or equivalent in work experience
+"Credible
+Share
+Show more options
+Data Scientist","3+ years experience in developing, testing, and deploying optimized predictive models (preferably to inform in-product recommendation systems and automated customer re-targeting efforts).
+Advanced statistical modeling skillset (Python, R, etc).
+Advanced SQL querying, data mining, and data cleansing skillset.
+Deep knowledge of supervised and unsupervised machine learning algorithms (neural networks, decision trees, etc.).
+Advanced knowledge of experiment design.
+Experience with Seldon-core or other MLOps tool is preferred.
+Hands-on experience with cloud infrastructure tools (EC2, S3, Redshift, Snowflake, containers).
+Advanced visualization/reporting and presentation experience.
+Version Control Experience (GitHub).
+Familiarity with ML deployment infrastructure (ETL, tools, new products in the space).
+Excellent strategic project planning skillset.
+Excellent communication skills (written and verbal).
+Experience at an e-commerce or fintech company a plus.","Drive the long-term statistical modeling and machine learning vision of the company. 
+Conduct analyses to develop and improve our product recommendation and user classification systems. Use this understanding to help optimize our adaptive user experience, cross selling initiatives, and retargeting efforts.
+Develop lead scoring models and methodologies to predict Lifetime Value.
+Design, prototype, and implement models across several domains. Manage each part of a project’s life cycle, including ad-hoc exploration, preparation of training data, model development, and production deployment.
+Partner with engineers to deploy and consume data science models.
+Work with product and marketing managers, analysts, and engineers to turn insights about our users into automated services.","BA/BS in Mathematics, Statistics, or Computer Science required. Masters Degree in a quantitative or scientific discipline strongly desired."
+"NinjaHoldings
+Share
+Show more options
+Data Scientist","Experience with relational databases and SQL
+Programming experience with Python
+Strong quantitative and problem-solving skills with key attention to detail
+Experience supporting and working with cross-functional teams in a dynamic environment","Build predictive models to optimize lending decisions by using advanced statistical modeling and simulation techniques
+Use advanced data analytics to understand consumer risk behavior trends, their impact on the portfolio, and resulting business opportunities
+Support the implementation of models by working closely with the software engineering team and performing post release checks and analysis
+Assist with development of technical tools and platforms to standardize and streamline model development and monitoring processes
+Establish key performance metrics and develop automated reporting dashboards using SQL and Python
+Design A/B testing for models and underwriting strategies, evaluate impact, and provide recommendations
+Work with cross-functional teams to explore new ways of finding insights from data and provide recommendations
+Communicate concise and actionable business strategies to senior management","Bachelor's degree required
+2+ years of experience with data analytics and statistical modeling"
+"Pave
+Share
+Show more options
+Data Scientist","Expert data manipulation skills with a proficiency in SQL.
+Expert in statistical modeling with Python or R (e.g., clustering, regression, time series, Bayesian statistics).
+Strong data intuition and creativity: you are able to design creative, useful, and accurate metrics, and have strong intuitions about where metrics go wrong.
+Strong analytical problem solving skills: you have the ability to translate qualitative business questions into quantitative solutions.
+Product- and business-minded: you enjoy using data to solve user pain points and business problems.
+Strong ability to communicate technical outcomes to cross-functional audiences.
+Ability to navigate (and bring structure to) ambiguity, with the ability to bring a project from 0 to 1. Experience evaluating the performance of ML models (note that this is not an ML-specific role, but you will work closely with ML Engineers).
+Experience with data transformations using dbt.
+Experience building customer-facing data products."," The Market Data Teams prototypes and builds brand new data products, as well as leveraging data to improve our existing ones. You’ll partner with Product Managers and go-to-market leaders to understand user needs, partner with Design to create early prototypes and explorations, then work with our Software Engineering team to scale your insights into high quality, compelling user-facing products.
+
+The ideal fit for this role is someone who enjoys creating and innovating with data, is passionate about metrics and methods, and who is able to balance the need for technical complexity with user-facing simplicity. This person has a deep technical toolkit, but also knows that the highest value data products are not always the most complex.","Have a Bachelors or other advanced degree in a quantitative discipline: statistics, operations research, social science, computer science, engineering, mathematics, economics, etc.
+4+ years of experience in a Data Science role, preferably at a technology company."
+"StackAdapt
+Share
+Show more options
+Data Scientist / Senior Data Scientist","Have a comprehensive understanding of statistics, optimization and machine learning
+Are proficient in coding, data structures, and algorithms","Innovate ML algorithms to maximize ROI and advertising performance. This ranges from creating entirely new algorithms, to improvements on state-of-the art methods, to development using a deep understanding of classic methods
+Write production code, sometimes collaborating with Data Engineers, to implement the novel ML algorithms
+Prototype potential algorithms and pipelines, test them using historical data, and iterate to modify based on insights","Have a Masters degree or PhD in Computer Science, Statistics, Operations Research, or a related field, with dual degrees a plus."
+"Pacaso
+Share
+Show more options
+Data Scientist","Strong SQL querying skills and database skills 
+Knowledge of at least one modern scripting language (preferably Python or R)
+Expert knowledge of data visualization tools and techniques (Tableau, Looker, Power BI, D3) 
+Experience with cloud data technologies and tools (AWS preferred) 
+Understanding of ML algorithms (SVM’s, gradient boosted decision trees, deep neural networks, etc.)
+Experience with consumer engagement modeling, funnel optimizations etc. preferred","Identify and apply appropriate methods to acquire, explore, cleanse, and fuse data from different sources.
+Define and operationalize the detailed tracking of company-wide, team-specific, and product-specific performance metrics via dashboards, and automated reporting
+Efficiently communicate analyses and recommendations to cross functional stakeholders for decision making
+Support the adoption of analytic products through effective storytelling and collaboration with key partners.
+Designing and analyzing experiments to measure the impact of new product features
+Building models to predict the growth trajectory of different customer segments
+Effectively document new business intelligence tools and processes, as well as maintain documentation for existing tools as development changes over time.",5+ years experience developing analytical insights across teams 
+"Adobe
+Share
+Show more options
+Applied Scientist","Deep understanding of statistical modeling, machine learning, deep learning, or data mining concepts, and a track record of solving problems with these methods. 
+Proficient in one or more programming languages such as Python, Scala, Java and C
+Familiar with one or more machine learning or statistical modeling tools such as R, Matlab and scikit learn
+Knowledge and experience of working with relational databases and SQL
+Strong analytical and quantitative problem-solving ability. 
+Excellent communication, relationship skills and a strong team player. ","Develop predictive models on large-scale datasets to address various business problems with advanced statistical modeling, machine learning, and analytics techniques. 
+Develop and implement scalable and efficient modeling algorithms that can work with large-scale data in production systems
+Collaborate with product management and engineering groups to develop new products and features. ","PhD or MS degree in Computer Science, Statistics, Electrical Engineering, Applied Math, Operations Research, Econometrics or equivalent experience required "
+"NICE
+Share
+Show more options
+Data Scientist","Proficiency with deep learning libraries (PyTorch, TensorFlow, JAX, etc.)
+Experience deploying NLP models in production environments, ensuring scalability and performance
+Experience with building and/or fine-tuning large language models implementing machine learning and NLP models using real-life data
+Experience working with deep learning models
+Proficiency in Python programming
+Advanced knowledge of statistics","Participating in high-level, undefined ideas and business problems using structured and unstructured data 
+Developing product offerings through careful consideration of business value and data analysis 
+Building and fine-tuning deep learning and machine learning models, with an emphasis on large language models
+Communicating research findings, technical concepts, and model recommendations effectively to technical and non-technical stakeholders",BS or MS in Computer Science or related degree
+"Glean
+Share
+Show more options
+Data Scientist, Growth","You are concise and precise in written and verbal communication. Technical documentation is your strong suit. 
+You are strong at defining good product KPIs/guardrail metrics, dashboarding and analysis of raw data to derive strategic insights.
+You are proficient in SQL and the modern data stack (e.g. dbt pipelines for ETL/ELT). 
+You have experience in writing source-controlled code for pipelines and internal tools for data-oriented decision making.
+You have a strong understanding of statistical concepts. You have experience in applying these skills into tangible improvements in products, internal tools and processes.
+You are proficient in Python. 
+You are familiar with BI visualization tools such as Tableau, Sigma, or Looker. ","Define and build data assets, e.g. KPI definitions, data pipelines and dashboards, to measure the performance of AI-powered assistant products for knowledge workers.
+Identify opportunities to improve these KPIs, and influence cross functional teams to incorporate associated changes into their roadmaps.
+Create and maintain quantitative frameworks and methodologies, e.g. bring more rigor into experiment analyses, use statistical modeling to identify leading indicators of user growth and engagement.","You have a Bachelors/Masters/PhD degree in Statistics, Mathematics or Computer Science, or another quantitative field.
+You have 3+ years of industry experience. "
+"Zelis
+Share
+Show more options
+Data Scientist","Proficiency in programming languages such as Python, R, or Java.
+Experience with statistical analysis and modeling.
+Experience with data visualization tools such as Tableau or Power BI.
+Experience with database technologies such as SQL, NoSQL, or MongoDB.
+Strong problem-solving skills and the ability to analyze complex data sets.
+Excellent communication skills and the ability to present technical concepts to non-technical stakeholders.
+Gen AI experience is a must","Analyze data: assessing quality, profiling, cleansing, exploratory data analysis and the transformation of large and complex datasets to be utilized for developing the statistical models.
+Understand business use case requirements and develop appropriate machine learning algorithms to provide solutions to the business problems.
+Design and develop different statistical modeling techniques such as regression, classification models, anomaly detection models, clustering models, deep learning models and feature reduction etc. to derive actionable insights.
+Build, test, validate models through various relevant methodologies, error metrics and calibration techniques.
+Develop and maintain data visualizations to communicate insights and recommendations to stakeholders.
+Work with cloud analytic platforms on AWS/ Azure using PySpark, Sagemaker, Snowflake, Azure Synapse Analytics, etc. 
+Perform multiple tasks and deal with changing deadline requirements. This includes knowing when to escalate issues. Maintain a focused, flexible, organized, proactive and positive behavior and approach. 
+Proactively provide recommendations to the business based on the insights derived from data science modeling techniques to resolve business problems.
+Communicate data science models’ complex results and the insights to the non-technical audiences.
+Interact with cross-functional technical teams and multiple business stakeholders to support integration of data science solutions into the business processes.
+Developed and implemented Gen AI use cases","Master's or PhD degree in Computer Science, Statistics, Mathematics, or a related field preferred."
+"
+Smarsh
+Share
+Show more options
+Data Scientist","Solid statistics knowledge (hypothesis testing, ANOVA, chi-square tests, etc…)
+Command of data science and statistics principles (regression, Bayes, time series, clustering, P/R, AUROC, exploratory data analysis etc…)
+Understanding and Experience of NLP Techniques in traditional pipelines, metrics, process and evaluation for supervised and unsupervised learning. 
+Familiarity with Deep Learning techniques for NLP.
+Familiarity with LLMs.
+Excellent verbal and written skills
+Proven collaborator, thriving on teamwork
+Self-learner
+Good relationship building skills Experience working with Python
+Familiarity with SQL and noSQL databases 
+Knowledge of “Big Data” frameworks like Hadoop, spark and Kafka are a plus
+Familiarity with one or more data science and machine/deep learning frameworks and tooling, including scikit-learn, H2O, keras, pytorch, tensorflow, pandas, numpy, carot, tidyverse
+Experience using Git, Linux/Unix, an IDEs","Development of machine learning models and other analytics following established workflows, while also looking for optimization and improvement opportunities
+Data annotation and quality review 
+Exploratory data analysis and model fail state analysis 
+Methodology, results and insights reporting, including model Governance report drafting in collaboration with senior team members 
+Client/prospect guidance in machine learning model and analytic fine-tuning/development processes
+50% exploratory data analysis and annotation
+20% interaction with stakeholders to understand modeling needs
+30% data science experiments and model building","Bachelor’s degree in Computer Science, Applied Math, Statistics, or a scientific field
+Approx. 2 to 5 years experience working with data & analytics (including school)"
+"Twitch
+Share
+Show more options
+Data Scientist - Analytics","Expert SQL skills and proficiency in Python/R
+Experience using data to create insight, drive business decisions and influence leadership","
+Inform product strategies by defining and updating core metrics for each initiative
+Establish analytical framework for your team: ad-hoc analysis, automated dashboards, and self-service reporting tools to surface key data to stakeholders 
+Evaluate and forecast impact of product features on creators, viewers, and the entire Twitch ecosystem
+Design A/B experiments to drive product direction with iterative innovation and measurement
+Drive the team's analysis roadmap and prioritize the most valuable projects
+Tackle complex and ambiguous analytic projects, resolve ambiguity and accurately identify the trade-offs between speed and quality and apply or route work as necessary
+Dive deep into the data to understand how creator and viewer behaviors change with the evolution of our product
+Act as our team's thought leader on best practices and move towards long-term vision of sustainable and thriving data processes 
+Own data collection and product instrumentation implementation and quality assurance
+Work hand-in-hand with business, product, engineering, and design to proactively influence and inform teammates' decisions throughout the product life cycle
+Distill ambiguous product or business questions, find clever ways to answer them, and to quantify the uncertainty","BA/BS in Analytics, Data Science, Computer Science, Mathematics, or equivalent industry experience
+3+ years of experience as a data scientist or data analyst in a high velocity, data-driven environment
+3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience"
+"Electronic Arts (EA)
+Share
+Show more options
+Data Analyst Intern - SUMMER 2025 (3-months)","Proficiency with data analysis tools and languages, such as SQL, Python, R, or equivalent.
+Strong understanding of statistical analysis and data visualisation techniques.
+Familiarity with security concepts or a willingness to quickly learn about the world of source code security and vulnerability scanning.
+Strong communication skills with the ability to translate data insights into clear, actionable recommendations. Experience with business intelligence tools (e.g., Tableau, Power BI).
+Familiarity with working with large data sets and cleaning/manipulating data.
+Understanding of API usage and integration for data extraction.
+Interest in cyber security and the tech industry.","Analyse data generated from our source code security scanning platform and deliver insights to help game studios and the security team understand security trends, risks, and opportunities for improvement.
+Collaborate with the security team to produce dashboards, reports, and metrics that answer key security questions from senior leaders and other stakeholders.
+Identify patterns, trends, and anomalies within data sets that will drive actionable recommendations.
+Assist in the design and implementation of data models that improve how data is structured, stored, and utilised for reporting purposes.
+Partner with development and security teams to ensure data from different sources is gathered, cleansed, and analysed effectively.","Pursuing a degree in Data Science, Statistics, Computer Science, or a related field."
+"Blue Shield of California
+Share
+Show more options
+Advanced Analytics - Summer Internship ","Develop and strengthen the structures needed to support a culture of analytics governance
+Deliver and collaborate on all aspects of data and advanced analytics products
+Work with leadership to identify, document, and enhance the team’s analytics environment and develop a strategy to bolster the team’s capabilities","Develop and strengthen the structures needed to support a culture of analytics governance
+Deliver and collaborate on all aspects of data and advanced analytics products
+Work with leadership to identify, document, and enhance the team’s analytics environment and develop a strategy to bolster the team’s capabilities",
+"Patreon
+Share
+Show more options
+Machine Learning Engineering Intern","Solid technical knowledge of CS fundamentals, data structures and machine learning
+Experience using Python for large scale data processing
+Willingness to learn and incorporate feedback 
+Passion for Patreon and working with Creators","You’ll ship a real-world feature that directly impacts the creator economy and helps turn your favorite creator's passion into a living. Potential projects include training ranking models for search and recommendations, optimizing notifications, building new features for our creator and content taxonomies, and more! 
+You’ll be part of a great team. You’ll be embedded into a world-class engineering team, working alongside fellow engineers, product managers, designers, and data scientists to make your feature a success.","Currently pursuing a PhD degree in Computer Science or a related technical degree (e.g. Math, Physics, Bioinformatics)"
+"
+Antora Energy
+Share
+Show more options
+Associate, Analytics","ython, with a strong emphasis on data analysis and model development
+Proficient in multi-disciplinary analysis with the ability to adapt to various domains and toolsets
+Experience designing user interfaces using drag-and-drop frameworks (e.g., Hex, R-Shiny) as part of software tool development
+Understanding of energy market fundamentals
+Familiar with interacting with Snowflake or other SQL-based data warehouses or data lakes
+Proficient in Excel for basic financial and data analysis
+Strong analytical, problem-solving, interpersonal and written and verbal communication skills
+Deep intellectual curiosity and strong work ethic
+Ability to work independently and excel in an unstructured environment data engineering and data pipeline production
+Fundamental understanding of Github and other similar software engineering tools
+Exposure to a formal software development environment as a developer","Design, develop, and optimize software tools using Python and frameworks like Hex, enabling wider dissemination of analytical insights throughout the company
+Provide guidance for and utilize data libraries and pipelines using SQL-based data warehouses to collect, organize, and process relevant data for ongoing analysis
+Support ad hoc analysis of various data to support product, market, and strategic decision making
+Support Antora’s Business Development team by conducting analyses and building tools which identify, screen, prioritize, and evaluate the economics/impact of project opportunities 
+Utilize our Python-based optimization software to support strategic corporate decisions regarding battery operations
+Collaborate with cross-functional teams to collect data and insights, ensuring alignment with current market conditions and strategic objectives
+Prepare and present reports and presentations for customers, investors, and Antora senior management, delivering actionable insights that influence key decisions","Bachelor’s degree in Computer Science, Applied Mathematics, or a software-focused field with strong coding proficiency
+2-3 years of experience working with and developing software tools, particularly in Python, with a strong emphasis on data analysis and model development"
+"Miami HEAT
+Share
+Show more options
+Data Analyst"," data analytics experience
+Strong proficiency in Power BI and SQL is preferred
+Hands-on experience working with Python, R, and/or related languages is preferred
+Understanding of statistics and economics principles
+Working knowledge of the NBA / Sports Entertainment industry
+Strong analytical and problem-solving skills
+Superb communication and collaboration skills
+Ability to work independently and manage multiple projects simultaneously","Work closely with various organizational entities/key partners to understand business needs
+Use SQL to transform and merge large data sets to build efficient reports
+Build reports and dashboards using Power BI
+Identify and track key performance indicators (KPIs) and provide regular reports to management
+Provide ad-hoc analysis that improves decision-making and business performance
+Collaborate with other groups to identify areas for process improvement
+Communicate complex data insights to non-technical partners","Bachelor's degree in computer science, statistics, mathematics, or a related field"
+"BetterHelp
+Share
+Show more options
+Data Scientist, Marketing Inference ","quantitative data analysis role involving user behavior (e.g. marketing, product, UI/UX) and large data sets
+Expertise in statistics, especially as it relates to hypothesis testing and experiment design
+Experience analyzing A/B tests as well as experiments with more advanced statistical methods like difference-in-difference, regression discontinuity, or other methods that deal with network effects or panel data
+Experience building predictive models and causal inference models
+Experience analyzing large and complex data sets to drive business insights and decisions
+Expertise in using tools like R and Python for data analysis
+Proven success supporting or making business decisions based on your data analysis
+Excellent communication skills, with experience simplifying complex topics and communicating technical ideas with non-technical audiences
+Advanced experience with SQL Experience with Bayesian modeling methods
+Experience with Marketing Mix Models and Multi-Touch Attribution models
+Experience analyzing two-sided marketplaces
+Experience with B2C, marketplace products
+Experience with BI tools like Tableau and Looker","Get insight from an enormous amount of data, and take a proactive role partnering with the marketing team in finding and testing data-driven ideas for improving our efficiency.
+Contribute to the development, implementation, and maintenance of our marketing models, including a Bayesian Marketing Mix Model and a Data-Driven Attribution model.
+Monitor and analyze marketing uplift tests with statistical rigor, present the data and insights to the team, and drive marketing decisions.
+Look at complex problems and come up with testable models and algorithms that have measurable business impact.
+Enjoy great teamwork, have lots of fun, and take pride in building a world-class product that makes a difference in people's lives.","BSc/MA in a quantitative discipline such as Statistics, Math, Economics, Computer Science, Operations Research, or Engineering
+At least 3-5 years of experience in a quantitative data analysis role involving user behavior (e.g. marketing, product, UI/UX) and large data sets"
+"
+Google
+Share
+Show more options
+Business Data Scientist, Economics","Experience in one or more database query language (e.g., SQL).
+Experience in Python or R, and with scientific computing.
+Experience with quantitative analytics in data engineering and data analysis. Experience in deploying causal inference tools to answer business questions (e.g., Difference-in-Differences, Propensity Score Models, Instrumental Variables).
+Strong familiarity and intuition around data.","Build and maintain large, organized data sets from complex, unstructured, and dynamic data sources.
+Conduct exploratory data analysis to develop and test hypotheses.
+Work with teammates and business partners to develop analytical solutions to complex business problems.
+Provide analytical and intellectual support to partner teams.","Master’s degree in Economics or a related quantitative discipline, or equivalent practical experience."
+"Refonte Learning AI
+Share
+Show more options
+Data Science Intern","Strong analytical skills with a passion for data science, machine learning, and AI.
+Proficiency in programming languages such as Python or R and experience with SQL.
+Familiarity with data science libraries like Pandas, Scikit-Learn, and Matplotlib.
+Excellent written and verbal communication skills for effective collaboration and sharing of ideas.
+Ability to work independently and as part of a team in a remote, fast-paced environment.","Collect, clean, and process large datasets from various sources, ensuring data quality and accuracy.
+Conduct exploratory data analysis to identify trends, patterns, and actionable insights.
+Collaborate with data scientists and engineers to develop, test, and implement machine learning models.
+Support the design and optimization of data pipelines for data processing and model training.
+Visualize data insights and findings for presentation to team members and stakeholders.
+Research and experiment with the latest tools and methodologies in data science and machine learning.
+Document processes and findings to ensure knowledge sharing and best practices across the team.","Currently pursuing a degree in Data Science, Computer Science, Statistics, Mathematics, or a related field."
+"Riot Games
+Share
+Show more options
+Research Scientist Intern - Game AI - Summer 2025 (Remote) ","Understanding of distributed systems and concurrent programming
+Familiarity with cloud computing basics on AWS (EC2, S3)
+Experience working with Linux operating systems
+Experience in C++ and game development (Unreal, Unity, Godot)
+Experience with version control systems. (We use Git)
+Experience in large language models, diffusion models, neural radiance fields, or Gaussian splats
+Experience in social network analysis, natural language processing, computer vision, or signal processing","Work closely with game teams and content creators to accelerate the pace that we produce content for our games
+Partner with artists, designers, and engineers to prototype new applications of research
+Explore the application of large language models and state of the art content generation models to games in development and production","Enrolled in an M.S. or Ph.D. program in statistics, engineering, computer science, artificial intelligence, or a related quantitative field (math, physics, etc.)"
+"Duolingo
+Share
+Show more options
+Data Scientist, Intern (PhD or Masters)","Strong understanding of consumer digital products and an interest in applying advanced analytics and economics to business outcomes
+Previous experience analyzing large datasets and communicating results to technical and non-technical senior-level audiences
+Skilled in SQL, R or Python, and/or statistical methods to analyze behavioral data
+Enthusiasm for learning and sharing analytical methods to help grow a collaborative Data Science team and data-forward company culture
+Experience with ""big data"" and cloud computing technologies like BigQuery, Snowflake, and/or dbt
+Experience articulating business questions and using available data to find answers that translate into product recommendations
+Self-starter, with a desire both to learn new techniques and guide others
+Previous experience/internships in applied business settings","Drive insights from data to influence product roadmaps and drive business results
+Apply advanced analytical methods, structural approaches, causal inference, and/or machine learning to model user behavior and estimate the impact of potential new feature implementations, and collaborate with product and engineering teams to develop solutions
+Evaluate product experiments to create and improve user experiences
+Communicate and present findings and recommendations to senior management 
+Help preserve our culture of fact-based decision making as we scale","Pursuing a Masters or PhD degree (in at least the third year of PhD program) in a quantitative field (e.g. Economics, Finance, Statistics, Math, Linguistics, Computer Science, Computational Social Science), ideally planning to graduate in Spring/Summer 2026. "
+"
+Scale AI
+Share
+Show more options
+Machine Learning Research Engineering Intern (Summer 2025)","Experience with one or more general purpose programming languages, including: Python, Javascript, or similar",We are building a large hybrid human-machine system in service of ML pipelines for dozens of industry-leading customers. Our machine learning models form the basis for Scale’s expansion and future product strategy. We currently complete billions of tasks a month and will continue to grow to support more complex use cases and more advanced ML-powered products.,"Currently enrolled in a PhD Program with a focus on Machine Learning, Deep Learning, Computer Vision with a graduation date in Fall 2025 or Spring 2026"
+"
+FedEx Dataworks
+Share
+Show more options
+Data Scientist I","Technical background in computer science, data science, machine learning, artificial intelligence, statistics or other quantitative and computational science 
+Experience or familiarity with designing and deploying large scale technical solutions, which deliver tangible, ongoing value 
+Direct experience or familiarity with building and deploying production systems that implement modern, data scientific methods at scale 
+Ability to context-switch, to provide support to dispersed teams which may need an “expert hacker” to unblock an especially challenging technical obstacle, and to work through problems as they are still being defined 
+Demonstrated ability to support technical projects within a team, often working under tight time constraints to deliver value 
+An ‘engineering’ mindset, willing to make rapid, pragmatic decisions to improve performance, accelerate progress or magnify impact 
+Comfort with working with distributed teams on code-based deliverables, using version control systems and code reviews 
+Solid theoretical grounding in the mathematical core of the major ideas in data science 
+Good understanding or familiarity with a class of modelling or analytical techniques, often supported by Masters-level research in the subject 
+Familiarity with the mathematical ‘primitives’ and generalizations of data science – e.g., expertise in Linear Algebra, and Vector Calculus 
+Use of agile and devops practices for project and software management including continuous integration and continuous delivery 
+General knowledge or familiarity with some of the following common languages and tools: 
+SKLearn, XGBoost, Tensorflow, Pytorch, MLlib and other core machine learning frameworks 
+Python, Scala, Java and other modern programming languages 
+MLFlow, Databricks, Spark, Kafka and other data tools and frameworks 
+CPLEX, Gurobi and other similar optimization modeling packages ","The Data Scientist I plays a pivotal role, focused on supporting data science innovation within Dataworks, helping to define and build the Dataworks organization, and supporting more senior data scientists in the delivery of key business initiatives. S/he acts as a “universal translator” between IT, business, software engineers and data engineers, collaborating with these multi-disciplinary teams. The Data Scientist I will contribute to the adherence of technical standards for data science and machine learning, including the design and construction of reusable data assets. S/he will learn to work with large data sets and solve difficult analytical problems, often applying advanced methods. S/he will support the creation and implementation of solutions from concept to production, using current and emerging technologies to evaluate trends and develop actionable insights and recommendations. Day-to-day, s/he will be involved in code development and the support of small-scale deployments.
+Understanding at a high-level both the business and technical problems Dataworks aims to solve 
+Exploring data and crafting models to answer core business problems that may not have a common blueprint 
+Supporting the invention of new approaches and algorithms for tackling data intensive problems 
+Helping the team scale up from “laptop-scale” to “cluster scale” problems by contributing to efforts to standardize and industrialize solutions 
+Delivering tangible value rapidly, collaborating with diverse teams of varying backgrounds and disciplines 
+Interacting with peer technologists from the broader enterprise and outside of FedEx (partner ecosystems and customers) to create synergies and identify opportunities for improvement 
+Following best practices for future reuse in the form of accessible, reusable patterns, templates, and code bases ","Bachelors Degree with at least One year experience or Master’s Degree or equivalent in computer science, operations research, statistics, applied mathematics or related quantitative discipline."
+"
+Reddit, Inc.
+Share
+Show more options
+Machine Learning Intern (Summer 2025) ","Experience working with a database, social networks, or open source projects
+Strong knowledge of CS fundamentals (able to program your way out of a paper bag)
+Strong foundational knowledge of machine learning concepts - experience training and evaluating models using pytorch, keras, tensorflow, or SOLR
+Experience in large scale data processing & pipeline orchestration 
+You’re over the age of 18 and authorized to work in the United States
+Experience working with Dataflow, Kubeflow, Airflow, BigQuery 
+A desire to work at either our Reddit HQ in San Francisco or New York City during summer 2025
+Experience working at a small start-up or mid-sized company","
+Work on projects that impact the business. You'll gain exposure to how a real engineering team works, from sprint planning to shipping code. As a MLE intern you will also be exposed to scalable systems that handle the complexity and volume of Reddit’s vast user base and content.
+
+Be mentored by experienced engineers from all backgrounds. From bootcamps to universities, small to medium and large companies, you'll work with engineers of many different experiences and levels. You'll have a formal mentor on your team guiding you throughout the summer as well!
+
+Contribute to the betterment of Reddit, whether that be through making it easier to create content on Reddit, serving up relevant content to users, fighting evil on the site. MLE’s work on designing, implementing, improving, testing, and launching new model enhancements to boost user engagement.","Actively working towards a Bachelor’s, Master's or PhD degree in Computer Science or a related field
+Graduating between December 2025 and June 2026, with less than 2 years of relevant professional work experience"
+"Octave
+Share
+Show more options
+Data Scientist","Minimum:
+Experience with analysis of large scale proteomic and/or genomic data sets
+Experience with supervised and unsupervised machine learning approaches, including but not limited to classification, regression, clustering, and other forms of anomaly detection/pattern recognition
+Direct experience with coding in Python or R
+Comfortable dealing with dimensionality reduction, cross validation, and augmentation of small datasets under uncertainty
+Experience in using warehousing, data lake and big data tools (e. g., S3, Apache Spark, BigQuery, Hadoop)
+Experience interpreting biological statistics and translating them to clear relationships of clinical outcomes for clinical and business stakeholders
+Self-driven and intellectually curious to solve challenging problems
+Collaborate with multiple teams (internally and externally)
+Strong team player willing to learn new platforms and tools Experience in visualization tools (e.g., Candela, Periscope, Spark, D3, Google Chart, ggplot, Tableau)","Accountable for the development of data analytics tools, predictive models, and emergent insight capabilities that make use of complementary and complex data sets.
+Use software tools to build algorithms and models, and draw actionable insights from large data sets.
+Build predictive models across multiple areas of interest with a strong emphasis on biology of neurodegenerative diseases.","Master of Science in Computer Science, Biology or in a related science, technology, engineering, or pure/applied math discipline"
+"Hitachi America Ltd.
+Share
+Show more options
+Industrial AI / Generative AI Intern","A background and research experience in one or more of the following research areas and their applications: machine learning, deep learning, reinforcement learning, time series analysis, generative AI, LLMs
+Strong programming abilities, familiarity with data science tools and libraries, as well as experience with Deep Learning frameworks.
+Experience with pre-training, fine-tuning LLMs and conducting large scale experiments is a plus.
+Ability to quickly build demos and prototypes.
+A record of publications in top machine learning or data mining conferences or journals
+In addition, the successful candidate will possess the following behavioral characteristics:
+Must have strong problem-solving skills
+Must be a highly motivated team player who can thrive in a dynamic startup-like environment
+Must have excellent communication skills, both written and verbal","We are seeking interns in Industrial and Generative AI (machine learning, deep learning, reinforcement learning, LLMs, robotics, etc.) to work on developing innovative algorithms and solutions for smart industry, social innovation, the industrial Internet of Things, and supply chain management, etc. Successful candidates will have an opportunity to solve challenging real-world problems, and to contribute solutions that will benefit society. You will work in a team environment with significant interaction with researchers.","A Ph.D. student in Computer Science, Statistics, Applied Mathematics, Operation Research, or related fields."
+"
+TikTok
+Share
+Show more options
+Data Scientist, Product Analytics (Early Career) - USDS","Experience with SQL, Python, or R
+ BS/MS in Computer Science, Math, Economics, Statistics, or other science and engineering fields
+ Self-motivated, detail-oriented, learn autonomously, and highly organized Experience navigating and working with large data sets using SQL
+ Ability to conduct rigorous analysis and communicate conclusions to both technical and non-technical audiences","
+ Conduct product analytics to provide product recommendations that drive product growth
+ Deep dive into data sources, understand their limitations, and communicate complex data insights through exploratory analysis and research to suggest improvement
+ Design and monitor core metrics; understand root causes of metric movements
+ Design and build advanced analytical solutions and models to deliver superior business outcomes", Previous internship(s) or 1-2 years of full-time experience
+"Avathon
+Share
+Show more options
+Data Scientist","Proficiency in programming languages such as Python or R.
+A solid understanding of machine learning techniques and algorithms.
+Strong problem-solving skills and a collaborative mindset.","Analyze complex datasets to extract actionable insights.
+Develop and apply machine learning models to solve business challenges.
+Collaborate with cross-functional teams to design data-driven solutions.
+Present findings and results to both technical and non-technical stakeholders.","A bachelor’s degree in Data Science, Statistics, Mathematics, or related fields."
+"
+FiscalNote
+Share
+Show more options
+Data Scientist I ","Able to work with and design web scraping tools and bots, using Python SQL, R, Streamlit, and other relevant and appropriate tools
+Be able to build and test predictive data models and forecasting tools, applying political, social, and geophysical sciences methodologies and best practices in such models 
+Have a working knowledge of ArcGIS or other geospatial analytical tools (preferred)
+Have technical competence in the use of Generative Artificial Intelligence (GenAI) applications and chatbots, particularly ChatGPT, and its use for content generation, task automation, scripting, and other automation
+Excellent time management and an ability to work to commercially important deadlines 
+Be able to lead on and manage data projects on budget and to agreed schedules, engaging with a range of stakeholders to achieve goals, including senior editorial and product leadership, analysts, product managers, data scientists, software engineers, graphic designers, commercial and marketing 
+Demonstrate strong interpersonal skills and able to work collaboratively and constructively as part of a high-performing intelligence and analysis team
+Work effectively with minimal supervision whilst remaining team-focused
+An ability to innovate and find creative solutions to how we use data to drive our growth and deliver market-leading analysis","Identify, analyze, manage, and maintain the best data and information feeds for our intelligence requirements
+Use appropriate tools (e.g. Python SQL, R) to scrape data, query databases, automate processes, and power a variety of data visualization tools
+Automate the processing of external data to feed custom-built databases, models, and linked dashboards
+Design, develop, and maintain visual tools such as dashboards and mapping for both internal analysis and external presentation on our platform 
+Develop machine learning tools to automate the identification of trends and patterns as well as forecasting and other analytical tasks
+Liaise with the Marketing and Commercial teams to assist in the preparation, planning, and implementation of proactive initiatives that drive opportunities 
+Liaise and collaborate with product managers and technical personnel across FiscalNote on relevant projects 
+Advocate best practices and innovation in data-driven research, primary source intelligence gathering, and the use of scraping and other relevant tools
+Help to establish and oversee a clear strategy for data automation and visualization throughout all aspects of FNGI operations.
+Manage competing deadlines and balance day-to-day requirements with delivery on strategic objectives. ",At least three years of professional experience working in data science and analysis in a relevant field 
+"Amazon
+Share
+Show more options
+Amazon Robotics - Data Scientist Co-op - 2025"," Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+ Excellent communication skills with ability to explain complex technical concepts to non-technical audience, while also efficiently interacting with deeply technical peers
+ Understanding of data engineering and business intelligence
+ Quantitative and qualitative data analysis experience with demonstrated impact to a business, a track record of creative problem solving, and the desire to create and build new processes
+ Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+ Experience with Natural language processing (NLP) and working with large language models
+ Experience with causal inference modeling
+ Experience with A/B testing and data wrangling","We are a smart team of doers who work passionately to apply cutting edge advances in robotics and software to solve real-world challenges that will transform our customers’ experiences. We invent new improvements every day. We are Amazon Robotics and we will give you the tools and support you need to invent with us in ways that are rewarding, fulfilling, and fun.","Currently enrolled in a Master's or PhD program in Data Science, Mathematics, Statistics, Computer Science, Robotics, Engineering, Machine Learning, Computer Vision, Operations Research, Mathematics, Economics, Computer Science or a related quantitative field"
+"
+Fors Marsh
+Share
+Show more options
+Data Scientist","Experience with R or Stata is required; experience with other statistical software packages such as Python, and Tableau. 
+Ability to standardize programming syntax and automate syntax where applicable.
+Initiative to expand in a specialized skillset such as programming dashboards (in R, Python, or JavaScript), cloud computing, large-scale data processing in Spark, Natural Language Processing (NLP), or Generative AI.
+Knowledge and experience with social science research methods including best practices for surveys, experimental design, and associated statistical analyses (i.e., descriptive statistics, traditional statistical modeling, machine learning).
+Highly self-motivated with keen attention to detail.","Working collaboratively with other members of the Research Methodology Center and client facing project teams to support client needs. 
+Executing and contributing to analysis plans that outline data preparation, statistical and computational methodology, and planned goals for the interpretation of findings.
+Managing and manipulating datasets from primary data collections and secondary data sources.
+Preparing technical reports, presentations, and executive summaries.
+Participating in project meetings and assisting project managers with development of research projects.
+Ensuring quality control of quantitative research projects across research divisions.
+Develop comprehensive analysis plans, including selecting appropriate methodologies and defining interpretation strategies to ensure accurate and actionable insights.
+Contribute to business development efforts by assisting in the writing of a proposal’s methodology section.","Bachelor’s degree in data science, statistics or social science (i.e., mathematics, economics, business, public policy, or related disciplines). Graduate degree preferred.
+3 years of applied research experience."
+"
+Neudesic, an IBM Company
+Share
+Show more options
+Data Scientist ","Experience with Databricks is required
+Experience in R/Python and SQL
+Knowledge of statistical, data mining, machine learning(ML and MLOps), large language model(LLM) and AI techniques (regression, decision trees, clustering, neural networks, and deep learning frameworks, etc.)
+Strong SQL skills and proven experience in working with large datasets and relational databases
+Experience in Hadoop, Spark, and cloud platform experience
+Experience in working with big data tools/environment, e.g. Hadoop Ecosystem (write complex HQL query, automate production pipeline, etc.), Spark, is a strong plus
+Experience with data visual analysis and BI tools like Tableau and Power BI
+Proven experience in working with cloud computing platforms particularly Azure is a strong plus
+Distinctive communications skills and ability to communicate analytical and technical content in an easy-to-understand way
+Ability to tell stories and make recommendations with data exploratory/visual analysis
+Intellectual curiosity, along with excellent problem-solving and quantitative skills, ability to disaggregate issues, identify root causes and recommend solutions
+Result-driven achievers and proven leaders with the ability to inspire others, build strong relationships, and create a true followership
+Strong people skills, team-orientation, and a professional attitude","This role requires the perfect mix of being a brilliant technologist and also a deep appreciation for how technology drives business value. You will have broad and deep technology knowledge and the ability to architect solutions by mapping client business problems to end-to-end technology solutions. Demonstrated ability to engage senior level technology decision makers in data management, real-time analytics, predictive analytics and data visualization is a must.
+","At least 3+ years of hands-on mathematical modeling experience in business environment
+Bachelor’s degree in quantitative field like Computer Science, Engineering, Business Analytics, Statistics, Mathematics or related field required. Advanced degree is a strong plus"
+"Cash App
+Share
+Show more options
+AI Research Intern ","Proven ability to implement in practice neural network architectures described in literature using deep learning frameworks such as PyTorch
+Demonstrated ability to lead a research project from ideation to publication
+Clear communication skills
+A curious, passionate, growth-oriented mindset
+Python, Pytorch, Numpy, Pandas, SQL","Develop new, standardized, datasets, either for internal use or for external release
+Provide quantitative assessment of the advantages and disadvantages of different model classes based on accuracy, precision/recall, training cost, training time, data requirements, and interpretability
+Explore the mathematical foundations of various model classes to understand their representational ability
+Develop new algorithms or state of the art models for tasks of interest
+Communicate your project status and results frequently",1-2 years of experience with applied Deep Learning
+"AppFolio
+Share
+Show more options
+Data Science Intern ","Familiarity with languages commonly used in data science such as Python or R; experience with SQL and data querying is a plus.
+Hands-on project or internship experience analyzing data and building statistical or machine learning models.
+An understanding of data wrangling and data cleaning techniques, and experience working with large, structured, or unstructured datasets.
+Excellent problem-solving skills and a creative approach to handling data challenges.
+Effective communication skills, with the ability to convey technical findings in a clear, actionable way to non-technical stakeholders.","Analyze and interpret complex datasets to identify trends, patterns, and insights that support our business objectives.
+Work with various data sources, developing scalable queries and pipelines to support analytics and reporting needs.
+Contribute to developing and deploying predictive models, using data science methodologies to address real business challenges.
+Collaborate closely with stakeholders and other team members to understand business requirements and translate them into data solutions.
+Use version control, code reviews, and testing frameworks to ensure high-quality, maintainable code.
+Participate in team meetings, contribute ideas, and present findings to stakeholders across the organization.","Currently pursuing a BS, MS, or Ph.D. in a STEM field or a related technical discipline."
+"
+Fractal
+Share
+Show more options
+Data Scientist","Proficiency in Machine Learning algorithms and concepts such as linear regression analysis, anomaly detection, time series and forecasting, probabilistic models, supervised and unsupervised learning, neural networks, deep learning, etc.
+Experience with data modeling and evaluation strategies.
+OPP knowledge and strong programming skills in Python, especially libraries used in data science like TensorFlow, PyTorch, Keras, Scikit-learn, etc.
+Knowledge of data preprocessing, cleaning, and analysis techniques.
+Familiarity with big data technologies such as Hadoop, Spark, or similar platforms.
+At least 3-5 years of experience in a Machine Learning or data science role, with a proven track record of developing and deploying models that have driven business impact.
+Experience working with large and complex datasets.
+Prior exposure to cloud computing services like AWS, Azure, or Google Cloud Platform is advantageous.","Collaborating with internal teams to understand complex business challenges and identify opportunities for AI-driven solutions.
+Designing, developing, evaluating, and deploying Machine Learning algorithms that turn data into actionable insights.
+Continuously research and stay abreast of the latest advancements in machine learning and AI to apply cutting-edge techniques in our solutions.
+Proactively working with large datasets, ensuring the integrity and effectiveness of data used in Machine Learning models.
+Engaging with clients to translate business needs into technical requirements and Machine Learning solutions.
+Leading initiatives to enhance our data analytics capabilities with a focus on predictive and prescriptive analytics through Machine Learning.","Bachelor’s or master’s degree in computer science, Data Science, Statistics, Mathematics, or a related field with a strong emphasis on Machine Learning or Artificial Intelligence."
+"Noblis
+Share
+Show more options
+Data Scientist","Programming experience with TensorFlow, C++, PyTorch, Python and R. 
+ Ability to help visualize the data for analysis and to display results. 
+ Experience with Large Language Models, Vector and Graph databases. 
+ Excellent interpersonal skills and ability to get along with data scientists, engineers, and customers at all levels. 
+ Ability to work in a dynamic team-oriented environment, demonstrate teamwork and initiative, and function productively in a dynamic work environment. "," Designing and developing machine learning models 
+ Running AI and machine learning tests and experiments 
+ Evaluating new techniques and making technical recommendations 
+ Running numerous experiments in a fast-paced and fun environment 
+ Mentoring junior data analytics and machine learning engineers to improve their technical skills "," Bachelors in Computer Science, Engineering, or related and 0 years of experience. "
+"Ladder
+Share
+Show more options
+Data Scientist, Product Analytics ","Mastery using SQL to query large data sets
+Strong understanding of statistics or experimentation (i.e. A/B testing)
+Demonstrated experience communicating analyses results to product stakeholders / leadership teams to influence strategy
+Desire to own projects end-to-end, take initiative in identifying and improving established processes, learn new skills, and teach others
+Impact-focused, eager to jump in and work in a fast-paced environment
+Collaborative nature, forming trusting relationships with your cross-functional teammates","Determine actionable, data-driven recommendations on feature development and prioritization based on a deep understanding of user engagement and behavior
+Partner with Product, Engineering, and Design teams through the full product lifecycle, from ideation and exploratory analysis to goal setting and measuring impact
+Define KPIs, build dashboards to monitor performance, and conduct root cause analysis to understand business drivers and providing Ladder with actionable insights
+Collaborate with engineering to design scalable data infrastructure
+Design and analyze A/B tests to assess the impact of product changes","3+ years in data science conducting quantitative analysis on large datasets, or an equivalent analytical role (preferably at consumer tech company)"
+"Zip Co
+Share
+Show more options
+Data Scientist","Demonstrated knowledge in Statistics and Machine Learning Modeling, experience building and deploying models in production is preferred 
+Proficient with Python, PySpark and SQL
+Proficiency in Deep Learning methods is a big plus
+Self-driven with an aptitude for independent research & problem-solving
+Being able to multitask in a fast-paced environment is essential","Develop, validate, and deploy ML models to solve complex problems and communicate ideas to internal stakeholders
+Extract and explore data, validate data integrity, perform ad hoc analysis, evaluate new data sources to improve models
+Maintain robust documentation of approach and techniques used, including objectives, assumptions, performance, weaknesses, and limitations
+Be ready to adapt to new tools/libraries/technologies/platforms
+Actively partner with engineers to validate & deploy scalable solutions
+Collaborate to gather insight from partners across the organization
+Further develop expertise in data science and engineering through self-study, project exposure, and guidance of senior team members","Bachelor's Degree in a quantitative field (e.g., computer science, data science, engineering, economics, mathematics, etc.). Masters/Advanced degree preferred.
+4-6 years of Data Science experience with 2 or more years of Finance/Fintech industry experience building consumer credit underwriting models."
+"Rakuten Rewards
+Share
+Show more options
+Data Scientist","Experience with big data and machine learning frameworks. Python/sklearn/pytorch strongly preferred.
+Practical experience with multiple ML problem types (supervised/unsupervised, classification/regression, RL experience is a plus)
+Strong software development skills
+Strong problem solving, communication and collaboration skills
+Firm understanding of statistics and A/B test fundamentals
+Experience with NLP techniques is a plus
+Deep learning/NN experience is a plus","Collaborate with manager and stakeholders to specify business problems with precision
+Support the translation of business problems into machine learning problems, including ML problem formulation and evaluation metric specification.
+Perform exploratory data analyses to characterize utility of existing data and to identify needs for new data
+Develop data pipelines for feature computation, model training, inference and evaluation
+Design and execute offline experiments and simulations
+Lead model deployment, business integration and online performance assessment
+Maintain technical documentation, develop/present demos and presentations
+Support management in project planning and status reporting",
+"Profluent
+Share
+Show more options
+Data Scientist (Lab Informatics)","Experience with Benchling or other laboratory information management systems (LIMS) Experience working with high throughput data and lab automation systems
+Experience designing relational data models and writing SQL queries (e.g. MySQL, PostgreSQL)
+Experience working with Google Cloud Platform (GCP) or other cloud-based compute services (e.g. AWS)
+Experience with at least one data analysis & visualization tool
+Experience analyzing data from molecular biology experiments
+Fluent in Python data analysis tools (numpy, pandas, Jupyter notebook, biopython)
+Experience with Linux environments and version control (git)
+Pays attention to detail, highly organized, and excels in a fast-paced work environment","Provide computational support for experimental biology workflows (guide RNA design, primer design, barcoding, codon optimization, cloning)
+Write robust software that captures experimental data and streamlines it into Benchling and other relational databases
+Collaborate with scientists to create relational data models that represent experimental workflows
+Implement bioinformatics tools for analysis of NGS sequencing data
+Act as a data steward, who manages, organizes, and provides access to datasets generated across a protein engineering campaign
+Clearly document code and communicate outcomes to colleagues","BS or MS in Computer Science, Bioengineering, Bioinformatics, or a related quantitative bioscience field
+3+ years of academic or biotechnology industry research or laboratory experience"
+"Usage AI
+Share
+Show more options
+Data Scientist","Proficiency in machine learning algorithms, with a strong focus on time series analysis.
+Experience building and maintaining data pipelines using tools such as Apache Spark, Airflow, and SQL.
+Fluency in a programming language (Python, SQL) and machine learning tools
+MLOps: Knowledge of MLOps tools and practices, with experience setting up CI/CD pipelines for machine learning models (e.g., Docker, Kubernetes, TensorFlow Serving)
+Experience with cloud platforms such as AWS, Azure, or Google Cloud for data storage, machine learning model deployment, and data processing.
+Familiarity with visualization tools (Tableau/QuickSight/Power BI)
+","Develop recommendation system and risk models.
+Develop data pipelines to ingest, clean data, model and extract insights from data
+Generate actionable insights from data for decision makers.
+Develop and implement risk models to assess loss probabilities, risk metrics, and other financial impacts.","B.S/M.S. in Machine Learning, Statistics, Computer Science, Mathematics, or other quantitative fields
+3+ years of experience in data science, data engineering, and actuarial modeling"
+"
+Moloco
+Share
+Show more options
+Data Science Intern ","Experience with SQL, Python and/or R coding languages.
+Ability to manage multiple projects at the same time while paying attention to detail and translate analysis results into business recommendations. 
+Ability to work independently, owning projects end-to-end, solving problems without much guidance.","Work on and improve various components of our ad-tech stack including ranking, retrieval, auction/bidding and budget pacing. Conduct deep-dive analysis to influence R&D decisions and strategies: analyze a large dataset with queries and scripts, extract valuable signals out of noise, and produce actionable insights into how we could optimize Moloco’s complex bidding system.
+Design and deploy advanced optimization approaches to improve our ad-delivery: identifying the best ranking, retrieval and bidding strategies that strike the right balance between ROI and revenue trade-offs.
+Validating and quantifying the efficiency and performance gain from hypotheses through rigorous simulation and modeling.
+Developing a robust experiment design and metric framework, and providing reliable and unbiased insights for product and business decision making.
+Stay up-to-date with the latest researches and developments in experimentation and causal inference, and identify opportunities of applying these techniques to business challenges","By the start of the internship, actively enrolled in a Bachelor's, Master’s or PhD program in a technical or quantitative discipline, and returning back to the school program at the completion of the internship.
+Candidates pursuing a Bachelor's or Master's degree must be graduating and obtaining the degree by June of 2026."
+"Figma
+Share
+Show more options
+Data Scientist, Platform"," Analytics, Data Science or Software Engineering
+Fluency in SQL
+Proficiency in Python, R, or a similar scripting language
+Experience in distributed data processing systems and framework (Hive, Redshift, Presto, Snowflake, Spark, etc)
+Firm knowledge of statistical methods and experimental design 
+Excellent judgment and creative problem solving skills
+A self-starting mindset along with strong communication and collaboration skills","Collaborate cross-functionally to understand existing problems and identify areas of impact for your team
+Understand user behavior within Figma through creation of new datasets, metrics, experimentation, etc and guide decision making
+Develop new techniques, datasets, tools that will enable answering previously unanswered questions and increasing rigor of analyses
+Design and maintain frameworks that are widely leveraged across the company
+Establish partnerships with cross-functional teams including Engineering, Product, Research, Design, Sales, and Marketing","5+ years relevant work experience in Analytics, Data Science or Software Engineering"
+"Google
+Share
+Show more options
+Business Data Scientist, Economics","Experience in one or more database query language (e.g., SQL).
+Experience in Python or R, and with scientific computing.
+Experience with quantitative analytics in data engineering and data analysis.
+Experience in deploying causal inference tools to answer business questions (e.g., Difference-in-Differences, Propensity Score Models, Instrumental Variables).
+Strong familiarity and intuition around data.","Build and maintain large, organized data sets from complex, unstructured, and dynamic data sources.
+Conduct exploratory data analysis to develop and test hypotheses.
+Work with teammates and business partners to develop analytical solutions to complex business problems.
+Provide analytical and intellectual support to partner teams.","Master’s degree in Economics or a related quantitative discipline, or equivalent practical experience."
+"
+Nirvana
+Share
+Show more options
+Data Scientist","Technical Skills:
+Proficient in Python and relevant data science libraries (e.g., Pandas, Scikit-Learn, TensorFlow, PyTorch).
+Experience with SQL and data querying in large datasets.
+Familiarity with healthcare data, including EHRs, eligibility data, and insurance systems, is highly desirable.
+Proficiency with visualization tools (e.g., Metabase) for communicating insights to non-technical stakeholders.
+Soft Skills:
+Strong problem-solving skills with a strategic, outcomes-oriented mindset.
+Ability to collaborate effectively with cross-functional teams and communicate complex ideas simply.
+A proactive approach to identifying and addressing data and process inefficiencies.
+Preferred Qualifications
+
+Experience working in the healthcare or FinTech industry.
+A strong sense of empathy toward healthcare professionals, including billers and intake. 
+Coordinators, and the ability to translate their challenges into actionable data solutions.","Model Development: Design, develop, and deploy machine learning models that optimize healthcare eligibility checks and improve operational efficiency.
+Data Analysis: Analyze complex healthcare datasets to derive actionable insights, focusing on improving patient-centric outcomes and transparency in healthcare expenses.
+Feature Engineering: Collaborate with engineering teams to implement data pipelines, ensuring high-quality and scalable data for model training.
+Cross-Functional Collaboration: Work closely with product managers, engineers, and healthcare experts to align data insights with business objectives and patient needs.
+Continuous Improvement: Identify opportunities for enhancing model performance and accuracy, leveraging A/B testing and iterative optimization.
+Data Quality: Maintain data integrity through rigorous validation and cleansing processes, ensuring that all data used in models is accurate, reliable, and ethical.","Experience: 5+ years of experience in data science, with a focus on machine learning and predictive modeling"
+"
+Flexport
+Share
+Show more options
+Data Scientist II, Causal Inference, Trucking","Experience with Causal Inference and Experimental Design: Strong foundation in causal inference and econometric techniques, with a proven track record of applying these frameworks to real-world problems. Experience designing and validating A/B testing, quasi-experimental methods, or impact analysis across complex systems is essential. 
+Marketplace and Economic Insight: Understanding of two-sided marketplaces or similar systems where multi-agent interactions shape outcomes. Familiarity with economic theories or financial markets is a plus, as is experience with marketplace dynamics, such as broker and carrier engagement. 
+Analytical Problem-Solving and Practicality: Ability to frame complex business problems as data solutions, with a practical, outcome-oriented approach. You excel at simplifying complex problems and are driven to see projects through from research to actionable insights. 
+Strong Communication and Collaborative Skills: Excellent written and verbal communication skills, with the ability to convey complex statistical concepts to technical and non-technical audiences. Experience working cross-functionally with engineers, product managers, and other scientists to integrate data solutions within larger platform strategies. ","Model Marketplace Dynamics with Causal Inference: Build models that capture the causal impact of decisions within our two-sided marketplace. Using econometric frameworks and causal inference techniques, you’ll quantify how actions from different brokers (e.g., rate changes, cancellations) affect carrier engagement, churn, and auction results, recommending targeted actions based on these insights. 
+Enhance Experimental Rigor in Product Development: Conduct A/B testing and online experiments to add scientific rigor to feature releases across our platform. Guide the organization’s learning processes by setting up experiments that reveal the causal effects of different interventions - such as optimizing communication channels to reduce carrier falloffs or testing alternative pricing adjustments to sustain broker engagement. 
+Collaborate on Cross-Functional Innovation: Work closely with product managers, engineers, and other scientists to ensure seamless integration of your causal models and algorithms within the platform. Develop feedback-aware decision systems capable of ingesting human and automated feedback to continually improve performance, auction parameters, and load recommendations. 
+Analyze Market Conditions and Broker Heterogeneity: As our marketplace expands, different broker actions (e.g., variable pricing strategies, and multi-broker lane engagement) will create complex interactions. You will investigate these dynamics and help our team quickly identify impacts on carrier behavior, enabling us to refine auction mechanisms and improve our relevance engines with actionable insights. 
+Stay Ahead in Causal Inference and Market Analytics: Leverage advancements in causal inference, machine learning, and econometrics to refine our experimentation platform, implement innovative decision-making frameworks, and enhance our competitive edge in a dynamic, two-sided marketplace. ","Advanced Degree and Quantitative Expertise: Ph.D. or Master’s in a quantitative field (e.g., Econometrics, Statistics, Economics, Applied Math, Operations Research, or Engineering) with 2+ years of post-graduate experience (with Masters) in a dynamic business environment, ideally in a marketplace or tech-driven setting."
+"
+X, the moonshot factory
+Share
+Show more options
+Machine Learning Engineer, Early Stage Project ","7+ years of on-the-job experience developing and training ML models for product use-cases
+Proficiency in MLOps tasks such as deploying and versioning ML models in production environments and monitoring their performance
+Experience doing win/loss analysis on model results and systematically finding efficient ways to boost wins and reduce losses
+Experience with building data pipelines (e.g. Beam, Dataflow, Flume, Flink, Hadoop, Spark)
+Experience testing, maintaining or launching software products, including experience with software design and architecture
+Strong proficiency in coding with Python, Golang, or other equivalent languages.
+Excellent written and verbal communication skills
+Experience applying LLMs for large scale document processing, including tasks such as annotation, entity extraction, etc.
+Experience in ML modeling using TensorFlow, Pytorch or Jax/Flax
+Experience in Google Cloud Platform and its Vertex AI solution and capabilities.
+Consistent track record of delivering high quality solutions to large, complex software problems
+Prior experience with setting the technical direction for small groups of engineers
+Experience working in start-up like environments","Explore, apply, and innovate state-of-the-art LLM & machine learning techniques to solve real-world problems
+Lead the design and implementation of ML data platforms and service frameworks, including labeling workflows and sampling strategies
+Design and implement robust, automated, production-level software using horizontally scalable components
+Work effectively with cross-functional teams of engineers, product managers, and domain experts
+Provide direction and focus in areas of high ambiguity","Bachelors/Masters in Computer Science, or equivalent practical experience
+7+ years of on-the-job experience developing and training ML models for product use-cases"
+"
+Stripe
+Share
+Show more options
+Data Scientist ","3-8+ years of data science/quantitative modeling experience
+Proficiency in SQL and a computing language such as Python or R 
+Strong knowledge and hands-on experience in several of the following areas: machine learning, statistics, optimization, product analytics, causal inference, and/or experimentation
+Experience in working with cross-functional teams to deliver results
+Ability to communicate results clearly and a focus on driving impact
+A demonstrated ability to manage and deliver on multiple projects with a high attention to detail
+Solid business acumen and experience in synthesizing complex analyses into actionable recommendations
+A builder's mindset with a willingness to question assumptions and conventional wisdom
+Experience deploying models in production and adjusting model thresholds to improve performance 
+Experience designing, running, and analyzing complex experiments or leveraging causal inference designs
+Experience with distributed tools such as Spark, Hadoop, etc.","We’re looking for a variety of Data Scientists to partner with the Product, Finance, Payments, Risk, Growth and Go-to-Market teams. You’ll work closely with a specific part of the business, playing a crucial role in optimizing our systems and leveraging data to make strategic business decisions. As Data Scientists as Stripe, it’s our mission to ensure that the company strategy, products, and user interactions make smart use of our rich data, using techniques like machine learning, statistical modeling, causal inference, optimization, experimentation, and all forms of analytics.","A PhD or MS in a quantitative field (e.g., Statistics, Engineering, Mathematics, Economics, Quantitative Finance, Sciences, Operations Research) "
+"Jerry
+Share
+Show more options
+Data Scientist","Proficient in SQL and Python (or a similar ML programming language)
+Ability to create alignment and drive decisions
+You have a framework for problem-solving and live by first principles
+Comfortable communicating with audiences varying from front-line employees to the company’s C-suite
+You set a very high bar for yourself and for your team, and you are constantly pushing that bar higher in the pursuit of excellence","Define and develop levers and tools to drive profitable growth with insurance partners
+Build scalable solutions and processes to analyze customer historical loss data and uncover trends to inform business decisions 
+Lead the design, execution, and analysis of A/B experiments on new and existing features, extracting key insights to inform product and business strategies
+Partner with marketing and data teams to integrate customer performance insights into user acquisition strategies
+Identify opportunities to automate manual processes and optimize operational efficiency ","Bachelor’s degree in a quantitatively or intellectually rigorous discipline
+3+ years of consulting, private equity, investment banking, or data science experience"
+"
+CoreWeave
+Share
+Show more options
+Data Scientist, Capacity","You excel at wrangling data, and this is your professional passion
+You have good SQL skills and understand core principles of database design
+You have experience working with Data Warehouses and/or Data Lakes
+
+You have working experience with programming languages like Python, R, Julia
+
+You are skilled at data visualization and working with BI software (e.g. Looker, Tableau, Power BI, Excel, Plotly, GGplot2, R-shiny, etc)
+You are familiar with the basic components of modern cloud computing, including: virtual machines, hypervisors, and computer networking","Contribute to the evolution of the Product and Capacity databases, and support historical data tracking, forecasting, dashboarding & reporting, metrics, demand analysis across our product lines.
+Contribute to the development of data pipeline requirements with product, capacity, and engineering teams to help support new product launches and for evolving product roadmaps.
+Collect, join, and maintain data in support of team objectives, while maintaining data quality and integrity and then digest data into consumable metrics for visualization.
+Identify concerns and work with your manager and other teams to develop measurements, collect data, and provide resolution to challenging problems.
+Incorporate product, hardware, and datacenter constraints into the solutions you produce, to ensure viability of the plans presented to stakeholders.
+Gain understanding of various demand streams and product trends when developing forecast predictions that will be actioned by the company.
+Perform data analysis by distilling large data sets and to inform business decisions that prioritize operational trade-offs and capital spend.
+Contribute to capacity planning models and analytic tools that process relevant data and track capacity performance.",You have 1-3 years of experience
+"
+UKG
+Share
+Show more options
+Data Scientist","Experience in at least 1-2 machine learning or AI subfields, including but not limited to regression, classification, deep learning, time-series analysis, clustering, NLP, transfer learning, etc.
+ Programming experience and the ability to rapidly develop prototypes of new solutions
+ Experience with SQL or another database technology.
+ Experience with Python or with another scripting language.
+ Experience with programming packages like Pandas.
+ Practical ability to visualize data, communicate meaningful business insights, and utilize them effectively.
+ Experience with ML Models deployed in SaaS applications
+ Experience with big data tools and frameworks, such as Cloud ML or Big Query
+ Willingness to learn new tools as they become needed."," Work with domain experts, perform data studies and analysis on billions of records from our one-of-a-kind dataset to identify meaningful business opportunities
+ Apply statistics, machine learning, and a variety of other techniques to analyze the data, generate models, and prototype new AI solutions
+ Build production ready prototypes and collaborate with others to bring concepts to life in the product.
+ Communicate findings to stakeholders and a broader audience of technical and non-technical persons.
+ Thrive in different working environments. Both in independent, self-driven, research and development, and in collaborative, team-driven, projects."," Education and experience in a quantitative field. PhD, or master’s degree plus 2 years of experience."
+"Bath & Body Works
+Share
+Show more options
+Data Scientist, AI ","experience in Python, R, SAS in a fast paced and professional environment required
+Advanced experience in pattern recognition, clustering, statistics, and predictive modeling techniques
+Proficient writing advanced SQL
+Proficient with Artificial Intelligence/Machine Learning techniques
+Proficient in working with cloud data warehouses (Snowflake)
+Experience in retail, consumer packaged goods, and/or customer marketing
+Data visualization experience using Power BI, Tableau, Qlikview or similar technology
+Ability to work effectively in dynamic, research-focused environment with multiple concurrent projects","Serve as leading data science strategist to develop new methodologies, models and applications related to AI and Generative AI business use cases.
+Interact with brand partners with respect to modeling and analytics.
+Extract, cleanse, and transform data for predictive modeling.
+Develop and implement automated, production-grade predictive model pipelines.
+Develop complex queries and automated scripts using Python & SQL.
+Fully handle projects end to end from identifying business opportunities to developed POC to creating automated modeling pipeline.
+Work with business partners to incorporate and implement results into current and future strategies.
+Communicate findings and recommendations to various partners across the organization.
+Complete hypothesis tests, sample size, and power calculations.
+Stay current with business results, strategies, industry standards, and tried and tested methodologies.","Bachelor’s degree in data science, statistics, mathematics or relevant field required.
+Master’s Degree in data science, statistics, mathematics, or relevant field desired."
+"Raven Industries
+Share
+Show more options
+Data Scientist - Python Intern","Using python, process agricultural machine CAN data to develop product performance dashboards (PowerBI) related to active firmware releases
+Train machine learning models using python that will benefit active firmware releases
+Perform exploratory analysis using python to support test engineers in their investigations","Using python, process agricultural machine CAN data to develop product performance dashboards (PowerBI) related to active firmware releases
+Train machine learning models using python that will benefit active firmware releases
+Perform exploratory analysis using python to support test engineers in their investigations","Pursuing a minimum a Bachelor's Degree in Engineering, Data Science, Computer Science, or related field"
+"StackAdapt
+Share
+Show more options
+Data Scientist / Senior Data Scientist ","Innovate ML algorithms to maximize ROI and advertising performance. This ranges from creating entirely new algorithms, to improvements on state-of-the art methods, to development using a deep understanding of classic methods
+Write production code, sometimes collaborating with Data Engineers, to implement the novel ML algorithms
+Prototype potential algorithms and pipelines, test them using historical data, and iterate to modify based on insights","nnovate ML algorithms to maximize ROI and advertising performance. This ranges from creating entirely new algorithms, to improvements on state-of-the art methods, to development using a deep understanding of classic methods
+Write production code, sometimes collaborating with Data Engineers, to implement the novel ML algorithms
+Prototype potential algorithms and pipelines, test them using historical data, and iterate to modify based on insights","Have a Masters degree or PhD in Computer Science, Statistics, Operations Research, or a related field, with dual degrees a plus."
+"UKG
+Share
+Show more options
+Data Scientist","Experience in at least 1-2 machine learning or AI subfields, including but not limited to regression, classification, deep learning, time-series analysis, clustering, NLP, transfer learning, etc.
+ Programming experience and the ability to rapidly develop prototypes of new solutions
+ Experience with SQL or another database technology.
+ Experience with Python or with another scripting language.
+ Experience with programming packages like Pandas.
+ Practical ability to visualize data, communicate meaningful business insights, and utilize them effectively.
+ Experience with ML Models deployed in SaaS applications
+ Experience with big data tools and frameworks, such as Cloud ML or Big Query
+ Willingness to learn new tools as they become needed.","Work with domain experts, perform data studies and analysis on billions of records from our one-of-a-kind dataset to identify meaningful business opportunities
+ Apply statistics, machine learning, and a variety of other techniques to analyze the data, generate models, and prototype new AI solutions
+ Build production ready prototypes and collaborate with others to bring concepts to life in the product.
+ Communicate findings to stakeholders and a broader audience of technical and non-technical persons.
+ Thrive in different working environments. Both in independent, self-driven, research and development, and in collaborative, team-driven, projects."," Education and experience in a quantitative field. PhD, or master’s degree plus 2 years of experience."
+"Grubhub
+Share
+Show more options
+Data Scientist II","4+ years experience with data analytics, machine learning, or related field
+2+ years experience Pandas and Python machine learning libraries and deep learning frameworks such as PyTorch and TensorFlow
+2+ years experience in information retrieval or recommendation systems
+Experience with language models, especially on imperfect grammars
+Experience with large language models like GPT, LLAMA, BERT, or Transformer-based architectures is a plus
+Experience in developing and optimizing ad recommendation systems is a plus
+Experience in data engineering and feature preparation in pyspark, hive,and the python data stack.
+Comfort communicating performance metrics, model details, and features specifications to technical and non-technical audiences
+Ability to keep up with the latest publications and synthesize research into working models
+Deep interest in self-motivated continuous learning","Help the business gain insights from recommendations in search and discovery, with a focus on balancing short and long-term metrics for both ad placements and organic content
+Optimize user experience by balancing compelling ad placements with relevant organic content to maximize overall engagement and drive orders and diner returns
+Bring state of the art advances in IR systems to our runtime environment. Assess new algorithms and business policies with a focus on optimizing across competing KPIs
+Collaborate with Product and Engineering teams to understand new product ideas, assess risks and ensure that the necessary data is available
+Discover new and innovative ways to refine what we're doing and question existing assumptions.
+Relentlessly analyze the interplay between ads and organic content, improving overall business performance through data-driven insights and optimization","MS/PhD in quantitative discipline (Computer Science, Math, Physics, Engineering, Statistics or other technical field etc) or equivalent experience"
+"Amplitude
+Share
+Show more options
+Product Growth Analyst ","Deep understanding of and experience with behavioral event data and deriving actionable insights from complex data sets across a broad surface area.
+Proficiency with SQL and extensive experience with using data visualization and product analytics tools (e.g., Amplitude, Tableau, Looker). We live and breathe Amplitude.
+Excellent communication and storytelling skills with the ability to elevate in-the-weeds data and insights to concrete growth opportunities.
+Strong desire for continuous improvement and a passion for developing expertise in Product Analytics to drive impactful decisions.
+Bonus points if you have experience in analytics engineering - creating and managing data pipelines with dbt, python.","Conduct in-depth analysis to create actionable insights around customer journey patterns and product usage connecting product data with business outcomes. 
+Collaborate closely with Growth PMs and Marketers to design, execute and improve bets and experiments across the entire self-serve customer journey.
+Effectively develop and communicate recommendations based on analysis to the team and cross-functional stakeholders
+Develop & refine metrics definitions, help us forecast our quarterly product metrics, run our weekly reporting and proactively surface updates when numbers are up/down.",3+ years experience as a product or growth analyst.
+"
+The Carlyle Group
+Share
+Show more options
+Financial Data Scientist, Machine Learning","Expertise in Python and its data-related libraries (e.g., Numpy, Pandas, Scikit-learn).
+Deep understanding of ML algorithms for time series analysis and model selection.
+Proficiency in SQL and experience with cloud computing (AWS preferred).
+Demonstrated experience in managing ML models in production, including aspects like scaling and monitoring.
+Strong analytical, problem-solving, and communication","Model Development & Implementation: Design and implement Machine Learning models for predictive analytics in the private equity sector, encompassing the full lifecycle from exploratory data analysis to deployment.
+Model Optimization & Management: Continuously analyze and refine model performance. Ensure robust testing, effective deployment, and ongoing maintenance in a production environment.
+Data Analysis & Insight Generation: Identify, analyze, and interpret complex data trends within private equity markets, contributing to data-driven decision-making.
+Collaboration & Technical Leadership: Collaborate with data engineers to enhance data pipelines and automate processing tasks; and with Quant Researchers to validate the backtests. Communicate project statuses, findings, and recommendations effectively with diverse stakeholders.
+Industry Trend Awareness & Skill Development: Stay abreast of the latest in statistical and ML techniques, particularly those relevant to financial markets and private equity.","Bachelor's degree, required
+Concentration in a STEM field, strongly preferred
+Master's degree in Computer Science, Data Science, Statistics, Mathematics, or related field preferred.
+
+
+Professional Experience:
+
+At least 3+ years of relevant experience in data science or machine learning, required
+Experience in finance or private equity, strongly preferred"
+"WorldQuant
+Share
+Show more options
+AI Scientist Intern","Strong programming skills in Python
+Experience designing, implementing and experimenting with ML models such as FFNNs, RNNs, CNNs, and Transformers
+Strong evidence of being a self-starter and problem-solver
+Research experience in NLP, Deep Learning, or AI is a plus
+Familiarity with platforms such as Linux is a plus
+Interest in financial markets","Work with the senior team members to develop and implement machine learning models, products, and workflows.
+Help test and generally improve the performance of existing models
+Onboard and explore behaviors of Large Language Models
+Port cutting edge python code running in Jupyter notebooks to internal frameworks
+Explore academic literature on advanced machine learning and mathematical concepts
+Document code, frameworks, and experiments","Pursuing a PhD at an accredited four-year university in a quantitative field (e.g., Computer Science, Mathematics, Electrical Engineering, Physics)"
+"
+HUMAN
+Share
+Show more options
+Data Scientist - Enterprise","You have experience solving large-scale, data-intensive problems in production systems (we process trillions of events per day, so literacy with large datasets is a must!).
+You can explain the nuances of different statistical modeling approaches and make informed decisions on which to use, whilst also having the engineering awareness of the realities of shipping working code to customers.
+You are proficient with Python and SQL and familiar with related tools, libraries and platforms. You are fluent in Object Oriented development and have strong debugging skills.
+You have a good sense of ownership which drives you to find ways to do things better, faster, and leaner; you hold yourself accountable for the quality and accuracy of your work
+You have experience working on cross-functional projects, with multiple stakeholders - both technical and non-technical; and following SDLC best practices: project management, version control, unit testing, and CI/CD","Partner with Product, Engineering, and Analysts to support our business goals in improving bot detection, building out competitive product features, and optimizing our data and ML infrastructure
+Research and experiment with the latest detection frameworks in cyber security and fraud, statistical techniques, and ML tooling
+Support the growth of best practices and Data Science standards in detection and modeling
+Be an active participant in team responsibilities, including reviewing other data scientists’ work prior to launching new detection rules/algorithms, our ‘sheriffing’ process where we proactively monitor anomalies arising in our systems and taking part in ‘tech-debt days’ to keep our codebase clean and healthy.
+Contribute to our growing DS toolsets, that ‘creating tau’ (disproportionate leverage) by accelerating our team’s ability to find fraud, automating cumbersome tasks, and creating novel methodologies. by empowering the other humans around you.",
+"DoorDash
+Share
+Show more options
+Data Scientist / Senior Data Scientist, Analytics ","Experience working with funnel optimization, user segmentation, cohort analyses, time series analyses, regression models, etc
+Expertise of SQL queries, ETL, A/B Testing, and statistical analysis (e.g. hypothesis testing, experimentation, regressions) with statistical packages, such as Matlab, R, SAS or Python
+Proficiency in one or more analytics & visualization tools (e.g. Chartio, Looker, Tableau)
+The insight to take ambiguous problems and solve them in a structured, hypothesis-driven, data-supported way","Use quantitative analysis and the presentation of data to see beyond the numbers and understand what drives our business
+Build full-cycle analytics experiments, reports, and dashboards using SQL, R, Python, or other scripting and statistical tools
+Work with and mentor junior analysts on how to use more advanced methods and solve challenges
+Produce recommendations and use statistical techniques and hypothesis testing to validate your findings
+Provide insights to help business and product leaders understand marketplace dynamics, user behaviors, and long-term trends
+Identify and measure levers to help move essential metrics and make recommendations
+Work backwards from understanding and sizing problems to ideating solutions
+Report against our goals by identifying essential metrics and building executive-facing dashboards to track progress
+Collaborate with engineering to implement, document, validate, and monitor our logging","A degree in Math, Physics, Statistics, Economics, Computer Science, or a similar domain
+2+ years of experience in data analytics, consulting, or related role"
+"Fidelity Investments
+Share
+Show more options
+Associate Data Scientist","Very strong interpersonal skills and an eagerness to work in a team environment
+Very strong technical and financial modeling skills
+Strong working knowledge of ML/data science, Python, SQL, data visualization","Understand the landscape of alternative data available in the consumer sector.
+Develop and enhance tools and reports related to fundamental metrics and company trends.
+Engage in robust quantitative research to support investment ideas and conclusions.
+Monitor, measure, and re-train models.
+Collaborate closely with other investment and technology professionals within the division.
+Explain complex quantitative concepts to non-technical people.
+Take initiative and demonstrate leadership skills to advance the investment process.",2-3 years of data science or quantitative experience
+"Foodsmart
+Share
+Show more options
+Data Scientist, Health Economics","At least 2-4 years of experience with machine learning, causal inference; bayesian statistics and simulation modeling (in particular MCMC) is a plus
+Expert in R (tidyverse, caret, xgboost), Python (numpy, pandas, scikit-learn, statsmodel, SciPy), or similar statistical software package, and SQL (window functions, CTE’s, aggregate functions, etc.)
+Experience with claims analyses and with large, real-world datasets; not limited to merging datasets and cleaning raw data
+Undergraduate or Masters in biostatistics, epidemiology, statistics, data science, computer science, health economics, or equivalent degree 
+Public health background is a plus!","Work closely with the Head of Clinical Data Science to support advanced statistical analyses and interpretation
+Use a statistical software package (R, Python, etc) to run statistical analyses on healthcare utilization, engagement data, and claims cost analyses
+ Build out the ontology and standardized data model for claims data
+Explore using statistical learning/machine learning/bayesian methods to predict cost savings, ER/inpatient utilization, and run simulation models to evaluate step therapies and disease progression from claims data
+Write codes to make quantitative associations (using regression analyses and causal inference methods) 
+Developing and advancing methodologies to evaluate cost effectiveness and cost savings from claims data
+Assist in automation of codes/analytic processes
+Clean data and conduct quality checks 
+Create and interpret data dictionaries, specifications, and other technical documentation share by or with internal and external stakeholders",
+"Koddi
+Share
+Show more options
+Junior Data Scientist Cohort","Solid understanding of machine learning / predictive analytics (e.g. regression, deep learning, causal inference, mathematical optimization)
+Familiarity with machine learning tools and platforms such as Spark, Databricks, TensorFlow, or PyTorch, gained through academic projects or internships
+Exposure to machine learning techniques and analytics methods (e.g., Deep Learning, Bandits, Causal Inference, or Mathematical Optimization) through coursework or academic projects
+Basic SQL skills with experience working on data manipulation and analysis in academic settings
+Basic proficiency in Python, with some hands-on experience through coursework, projects, or internships
+Excellent communication skills and eagerness to learn 
+Enjoys working in a fast paced environment with high collaboration","Collaborate with data scientists, software engineers, and business stakeholders to learn about company goals and objectives
+Assist in translating that understanding into basic machine learning solutions that address business challenges and opportunities
+Contribute to key projects focused on the development of scalable machine learning and artificial intelligence solutions
+Assist in building and deploying production-ready models on large datasets to improve Ad delivery and relevancy performance by utilizing statistical modeling and machine learning techniques
+Help design and execute A/B tests to gather insights and answer business questions
+Stay engaged in learning and applying foundational machine learning techniques to solve data science problems under the guidance of senior team members
+Document learning experiences, methodologies, and findings, sharing insights with the team to foster collaboration and growth
+Participate in project planning and prioritization meetings, gradually building experience in interacting with cross-functional teams and stakeholders","Graduating with a Masters or PhD degree in Statistics, Computer Science, Operational Research or Engineering or successful completion of relevant bootcamp coursework
+Graduation/Bootcamp completion date no later than May 2025"
+"Confluent
+Share
+Show more options
+Data Scientist - Product ","Strong stakeholder management skills with the ability to influence and build relationships at all levels of the organization.
+3+ years of experience in Product Data Science/Analytics 
+Excellent communication skills, and ability to collaborate effectively with technical and non-technical stakeholders
+Exceptional problem solving skills and analytical skills
+Strong proficiency in data manipulation with data querying languages (e.g. SQL). Proficiency in scripting languages (e.g. Python) preferred.
+Proficiency in data visualization and building dashboards with tools such as Tableau
+Experience and familiarity with A/B testing and experiment best practices Experience and knowledge of causal inference, machine learning and other advanced analytical methods
+Experience in SaaS/Product-led Growth companies ","Collaborate with product managers, product engineers, and other stakeholders to define and measure success metrics for product features and initiatives.
+Develop and maintain dashboards, reports, and visualizations to communicate key metrics and insights to stakeholders.
+Utilize data to uncover trends, identify opportunities for growth, drive strategic product decisions, and shape product roadmaps.
+Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to improve product experience 
+Share actionable insights and recommendations with leadership at various levels, playing a pivotal role in determining Product strategy
+Collaborate with other data scientists across our organization to share best practices, learn new analytical techniques, and champion an organizational culture where data is central to decision making","Bachelor or advanced degree in a quantitative discipline: computer science, engineering, statistics, economics, etc."
+"
+Insurity
+Share
+Show more options
+Data Scientist ","Proficient knowledge and experience with statistical modeling software, data visualization software & tools, version control systems, and databases/data structures.
+Fundamental understanding of programming and scripting experience
+Exemplary relationship builder with coworkers and customers
+Detail-oriented and has excellent time management skills including work planning, prioritization, and organization.","Conduct advanced analytics activities leveraging predictive modeling, machine learning, simulation, optimization, and other techniques to deliver insights or develop analytical solutions to achieve business objectives.
+Effectively represent the Data Science group in a collaborative environment to execute on company goals.
+Support Subject Matter Experts on efforts to develop scalable and robust solutions.
+Translate complex analytical and technical concepts for the non-technical team members to enable understanding and drive informed business decisions","Recommended: 1-3 years’ experience
+Recommended: Bachelor’s degree in related field (equivalent work experience may be considered)
+Preferred: Masters or PhD in quantitative field such as statistics, mathematic , etc or equivalent quantitative field "
+"
+ServiceNow
+Share
+Show more options
+ML Data Linguist Intern","Understanding of linguistic principles, grammar, syntax, and semantics, with the ability to apply this knowledge to improve language generation.
+Proficient in data annotation and labeling techniques, with experience working on large-scale text datasets.
+Strong analytical and problem-solving skills, with the ability to analyze and interpret data to drive improvements in AI models.
+Excellent written and verbal communication skills, with the ability to present complex technical concepts to both technical and non-technical stakeholders.
+Knowledge of more than one language and experience in localization.
+Python programming skills, familiarity with core programming principles, and ability to learn widely used NLP libraries and frameworks.
+Demonstrated ability to work effectively in a collaborative team environment, fostering a culture of knowledge sharing and continuous learning.","Data Creation and Evaluation: Develop and assess synthetic data for Generative AI projects.
+Data Labeling: Annotate and label large volumes of textual data to create high-quality training datasets for Generative AI models.
+Data Preprocessing: Clean and preprocess raw text data, ensuring it is appropriately formatted for training and evaluation purposes.
+Language Modeling: Develop and refine language models to improve the fluency, coherence, and naturalness of generated text.
+Semantic Understanding: Apply computational linguistics techniques to enhance the understanding of semantics, sentiment, and context within text.
+Grammar and Syntax: Analyze and improve the grammar, syntax, and sentence structure of generated text to ensure it adheres to linguistic rules and conventions.
+Evaluation Metrics: Define and implement evaluation metrics to measure the quality and performance of Generative AI models.
+Collaboration: Collaborate closely with cross-functional teams, including data scientists, researchers, and software engineers, to refine and iterate on the AI models.
+Continuous Learning: Stay up to date with the latest advancements in Generative AI and computational linguistics, applying new techniques and methodologies to improve model performance.","Currently pursuing a Master's degree in Linguistics, Computational linguistics, Natural Language Processing, or related field.
+Current anticipated graduation date must not be before December 2025"
+"Sartre Group
+Share
+Show more options
+Data Scientist","1+ years of professional experience in a Data Science/ Quantitative capacity working with alternative/ unstructured data
+Proficient in using programming languages, preferably Python and SQL
+Excellent communication skills","You will focus on utilizing quantitative methods to analyze various alternative and economic data sets (transaction, web traffic, clinical trial, now-cast, survey, shipping, satellite, geolocation etc.) to generate signals for investing. You will work closely with the Portfolio Manager on how your analysis could impact their universe and ultimately PnL.
+
+
+
+It’s a given this role has technical elements but equally as important is the ability to communicate your analysis and really look to monetize that. As they look to monetize the data, creativity surrounding the data and analysis is very much encouraged. They need someone who enjoys the technical elements but also wants to combine them with the fundamentals of working close to the markets.
+
+
+
+As a senior hire you will lead the most impactful projects, you will also play a part in mentoring some of the junior team members.
+",
+"Earnest
+Share
+Show more options
+Data Scientist II","Design and implement ETL pipelines to ingest data from operational systems, third-party sources, and public datasets into the data warehouse, transform existing data for user consumption, and source data for model training
+Extract data for model training from various sources, including data warehouses (e.g., Earnest, Navient), production databases, third-party providers, and publicly available dataset
+Prototype machine learning models by applying best practices in feature engineering, model selection, and validation, while writing efficient code using popular frameworks such as Scikit-learn, TensorFlow, and PyTorch
+Articulate to stakeholders the impact of the models and analyses through presentations and reports. Drafts recommendations for stakeholders that would optimize the product and underwriting policies","You will be responsible for guiding product recommendations and model development.You will communicate analyses and results to the Data team backed by data and coupled with actionable conclusions to drive business decisions. This role will be creating new analytical approaches, design efficient data querying and modeling development","Bachelor’s Degree in Computer Science, Data Science, Statistics or a related field PhD in Machine Learning or very related topic, or Master’s degree with equivalent experience with a minimum of 1-2 years of experience"
+"
+Hitachi Digital
+Share
+Show more options
+Data Scientist & Machine Learning Engineer (1029569)","Proven track record of working with multiple Machine Learning Operations (MLOps) platforms, showcasing the ability to manage and streamline the lifecycle of machine learning models effectively.
+Proficiency in designing and deploying AI and ML models in production environments: demonstrated ability to effectively design scalable ML-based solutions and systems.
+Programming languages such as Python, JavaScript, TensorFlow, PyTorch, Scikit-Learn, Qlikview, R Shiny
+Experience with Nvidia AI tools and technologies, such as CUDA or TensorRT
+Experience with data visualization tools (e.g., Tableau, Power BI, matplotlib)
+Strong communication skills, with the ability to present complex information in a clear and concise manner.
+The ability to collaborate with Business and IT teams, providing a key point of contact for stakeholders","Responsible for collecting, analyzing and interpreting data (data mining or extraction) from multiple data sources: processing, cleaning and validation
+Solving business problems using data analysis/mining and machine learning techniques.
+Carrying out preprocessing of structured and unstructured data and detecting trends, patterns in data sets and improving data models with advanced analytics and deep learning capability
+Enhancing data collection procedures to include all relevant information for developing analytic systems
+Developing prediction systems and machine learning algorithms
+","Min. of 5+ years of professional work experience in data science and machine learning.
+Proven track record of working with multiple"
+"Upward Trend
+Share
+Show more options
+Data Scientist (1-4 yrs' experience) - Hedge Fund","1-4 yrs' experience working as a Data Scientist, Data Engineer or Data Analyst with exposure to financial data, alternative data, or similar
+Accomplished Python and SQL programmer
+Solid understanding of software engineering principles (e.g. via Computer Science degree programme or on-the-job experience).
+Great communication skills.
+Keen interest in financial markets - domain knowledge and engagement are as important as technical know-how.",,
+"Modo Energy
+Share
+Show more options
+Data Scientist","3 to 12 years experience using Python (or another programming language e.g. R, C++, Java) and with the scientific computing stack for data analysis and data science.
+Exceptional quantitative skills and a degree in a quantitative field: maths, engineering, computer science, physics, chemistry, biology.
+Great technical communication and exceptional technical problem-solving skills.
+Previous experience in energy modeling, with a specific focus on the North American Power systems.
+A self-starter attitude, with an eagerness to dive headfirst into problems and pick things up quickly.","Sourcing, processing, analyzing, and interpreting large & complex datasets within our growing forecast offering.
+Developing our power market and dispatch models to grow and enhance Modo's product offering. We use Python and the standard scientific computing stack (Numpy, Pandas, SciPy, ScikitLearn, etc.).
+Working closely with our product function to ensure the product we deliver aligns closely with user needs and provides value to the wider Modo team.",
+"Mojang Studios
+Share
+Show more options
+Marketing Data Scientist","Craft complex data into clear, actionable insights and compelling narratives that resonate with stakeholders across the organization.
+Level up our understanding of trends, drivers, and opportunities with your knowledge of marketing analytics, statistics, and machine learning.
+Mine efficiently through large datasets in a Databricks environment using SparkSQL and PySpark.
+Coordinate work with fellow data scientists and marketing, product, and engineering teams to create timely analysis focused on business outcomes.
+Stay on the leaderboard of industry trends and marketing analytics to ensure our methods are always game-changing.","Craft complex data into clear, actionable insights and compelling narratives that resonate with stakeholders across the organization.
+Level up our understanding of trends, drivers, and opportunities with your knowledge of marketing analytics, statistics, and machine learning.
+Mine efficiently through large datasets in a Databricks environment using SparkSQL and PySpark.
+Coordinate work with fellow data scientists and marketing, product, and engineering teams to create timely analysis focused on business outcomes.
+Stay on the leaderboard of industry trends and marketing analytics to ensure our methods are always game-changing.","Doctorate in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 1+ year(s) data-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
+OR Master's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 3+ years data-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
+OR Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 5+ years data-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
+OR equivalent experience"
+"
+Pathward
+Share
+Show more options
+Data Scientist I","2 years of experience in data mining, modeling using SAS, SQL, R/Python.
+Experience in the consumer credit industry is a plus.
+Strong analytical and problem-solving skills, combined with solid business acumen.
+Exceptional written and communication skills, and ability to explain complex insights to a range of audience.
+Strong technical skills such as SAS, R/Python, AWS Sagemaker and ability to independently access and analyze data using Snowflakes in AWS Cloud and on prem SQL environment.
+Knowledge and experience with AI/ML and credit bureau data.","Consolidate disparate and large datasets for use in reporting, analytical, and modeling work, including proper quality assurance and data management practices in accordance with data governance policy.
+Mine, model, and analyze large datasets utilizing descriptive, predictive, and prescriptive analytics.
+Develop insights from historical performance data, identify opportunities, and develop solutions using various analytical techniques.
+Develop and support machine learning and statistical models for use in predicting credit outcomes, and/or identifying and quantifying various risks.
+Design and deploy model monitoring frameworks to assess the performance of deployed models.
+Advise senior management of emerging trends and risks.
+Collaborate with vendors and technology teams to ensure new strategies and models are implemented accurately and as designed.
+Conduct other ad hoc analyses as required to support team goals.
+Additional duties as assigned.","Master’s or PhD degree in an Finance, Business, Actuarial, or Analytics related field."
+"
+HFR
+Share
+Show more options
+Data Scientist","· Experience in data science or other data analytics role
+
+· Advanced knowledge of Alteryx preferred
+
+· Strong programming skills and experience with Python, R language
+
+· Proficient with Hadoop, MySQL, Tensorflow, Spark
+
+· Machine learning, other data modeling skills
+
+· Self-confident, adaptable, and team oriented
+
+· Ability to take direction, multi task and meet deadlines
+
+· Ability to work in a fast paced environment
+
+· Solid written and oral communications skills
+
+· Solid organizational skills with a strong attention to detail
+","· Research and development of new approaches to index construction and return analysis.
+
+· Assist with the construction, engineering and maintenance of portfolios of hedge funds for creation of strategy, sub-strategy, geographic & thematic index products 
+
+· Gathering, cleaning, and processing raw data
+
+· Designing predictive models and machine learning algorithms to mine return data sets
+
+· Developing tools and processes to monitor, analyze and improve data accuracy
+
+· Building data visualization tools, dashboards, and reports
+
+· Writing programs to systemize processes
+
+· Assist in the design of quantitative index methodologies
+
+· Display skills to work both independently and within team oriented environment, efficiently completing work on deadlines and effectively incorporating feedback on results.","Degree in math, statistics, computer science or other quantitative discipline"
+"Candidly
+Share
+Show more options
+Data Scientist, NLP","Strong programming skills in Python and proficiency with libraries such as TensorFlow, PyTorch, Scikit-Learn, NLTK, SpaCy, Transformers, and Hugging Face.
+Expertise in NLP techniques such as BERT, GPT, Seq2Seq models, and transformer architectures.
+Proficiency in designing and deploying NLP pipelines for named entity recognition, text classification, and text generation.
+Expertise in designing and deploying machine learning models for production.
+Familiarity with cloud platforms (AWS) and tools for model deployment and orchestration
+Experience with SQL and data visualization tools is a plus.
+A love of experimenting and working with new tools and technologies
+Soft Skills:
+Strong communication skills and ability to explain complex concepts to non-technical stakeholders.
+High adaptability and comfort working in a dynamic, fast-paced startup environment.
+Proactive, with a passion for building impactful solutions that address real-world challenges.","LLM Product Development: Design and build machine learning models to support new product features, including AI-powered guidance, personalized product experience.
+Natural Language Processing: Develop and deploy NLP-based models to extract insights from user interactions, and create intelligent financial guidance.
+Text Classification & Sentiment Analysis: Develop models to classify user queries, tag content, and determine sentiment in user interactions to inform product enhancements.
+Named Entity Recognition (NER): Build and train models to extract and identify specific entities from text.
+Topic Modeling & Content Recommendation: Implement topic modeling techniques (e.g., LDA, BERTopic) to automatically categorize user inquiries and generate personalized content or advice.
+Intent Recognition: Design and deploy models to accurately identify user intents from text or voice input, enabling more intuitive user interactions and tailored advice delivery.
+Data Strategy & Engineering: Collaborate with data engineering teams to define data needs, build ETL pipelines, and deploy machine learning models in production environments.
+Model Evaluation & Tuning: Conduct rigorous testing, optimization, and continuous evaluation of deployed models to ensure they deliver impactful and reliable results.
+Research & Innovation: Stay on the cutting edge of AI/ML advancements and evaluate new techniques for application within the Candidly platform.
+Stakeholder Collaboration: Work closely with stakeholders across product, design, engineering, and leadership to translate complex AI concepts into actionable strategies and features.
+Data Storytelling: Present findings and insights in a compelling way to both technical and non-technical audiences, contributing to strategic decision-making.","Experience: 3-5 years of experience in a data science role, with a strong focus on NLP projects."
+"
+Lyft
+Share
+Show more options
+Data Scientist, Algorithms - Orchestration and Driver Incentives","3+ years professional experience
+Passion for solving unstructured and non-standard mathematical problems
+End-to-end experience with data, including querying, aggregation, analysis, and visualization
+Proficiency with Python, or another interpreted programming language like R or Matlab
+Willingness to collaborate and communicate with others to solve a problem","Partner with Engineers, Product Managers, and Business Partners to frame problems, both mathematically and within the business context.
+Perform exploratory data analysis to gain a deeper understanding of the problem
+Construct and fit statistical, machine learning, or optimization models
+Write production modeling code; collaborate with Software Engineers to implement algorithms in production
+Design and run both simulated and live traffic experiments
+Analyze experimental and observational data; communicate findings; facilitate launch decisions","M.S. or Ph.D. in Statistics, Operations Research, Mathematics, Computer Science, or other quantitative fields
+3+ years professional experience"
