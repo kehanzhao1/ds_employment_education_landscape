@@ -135,26 +135,41 @@
     font-style: normal;
   }
 
-
-   body {
-    background-color: #f8f7f5; /* Change this to your desired color */
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-    width: 100vw;
-    font-family: 'Lato', sans-serif; /* Set a default font family */
-  }
+  * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensure consistent box model */
+  
+}
+ html, body {
+  margin: 0; /* Remove default browser margin */
+  padding: 0; /* Remove default browser padding */
+  width: 100%; /* Ensure body spans full width */
+  height: 100%; /* Ensure body spans full height */
+  font-family: 'Lato', sans-serif;
+  overflow-x: hidden; 
+}
+/* Apply box-sizing globally */
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+  
   main {
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
+  height:100%;
   margin:0 auto;
+  margin-right: 0vw;
   padding: 0;
+  overflow-x: visible;
 }
   .intro {
-    margin-bottom: 10vh; /* Add space between the intro section and the container */
-    margin-top: 0rem;
+    margin-bottom: 30vh; /* Add space between the intro section and the container */
+    margin-top: 1rem;
+    margin-right: 25%;
     width: 90vw; /* Make the intro section span most of the page */
     margin: 0 auto; /* Center the intro section */
     text-align: center; /* Center the text */
@@ -162,7 +177,7 @@
     height: auto; /* Adjust height as needed */
     display: flex; /* Center content */
     align-items: center;
-    padding:2rem;
+    padding: 2rem;
     opacity:0;
     transform: translateY(20px); 
     transition: opacity 1s ease-in-out, transform 1s ease-in-out;
@@ -182,18 +197,18 @@
     }
   }
   .intro h1 {
-    margin-bottom: 2rem; /* Add space between the h1 and p elements */
+/* Add space between the h1 and p elements */
     font-size: 2.5rem; /* Adjust font size as needed */
     font-family: 'Lato', sans-serif;
     font-align: right;
     flex: 1;
-    margin-right: 1rem;
-    margin-left: 1vw;
+    margin-right: 2rem;
+    margin-left: 0vw;
     animation: slideInFromLeft 1s ease-in-out;
   }
   .intro p {
     font-size: 1.5rem;
-    width: 15vw;
+    width: 20vw;
     height: auto;
      /*border: 3.5px solid #141a3e; Add a border around the p element */
     padding: 2.5rem; /* Add padding inside the p element */
@@ -201,10 +216,10 @@
     background-color:       #ffffff;
     border-left: 5px solid #ed5701; /* Add a top border */
     flex: 1 ;
-    
     font-family: 'Lato', sans-serif;
-    margin-left: 2vw;
-    margin-right: 10vw;
+    margin-left: 0vw;
+    margin-right: 20vw;
+    box-sizing: border-box;
   }
  
 
@@ -215,23 +230,36 @@
     align-items: center;
     flex-direction: column; 
     margin-left: -6vw;
-    margin-right: 5%;
-    padding-right: 5rem;
+    margin-right: 5vw;
+    padding-right: 3rem;
     margin-top: 10vh;
     
+  }
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100vw;
+    height: 100vh;
+    margin-top: 10vh;
+    margin-bottom: -2vw;
+    padding: 0vh 2vw;
+    box-sizing: border-box;
   }
   .scrolly {
     flex: 1.5;
     height: 70vh;
     width: auto;
     overflow-y: auto;
-    margin-right: 8vw;
+    margin-right: 5vw;
     margin-left: 8vw;
     padding-right: 1rem;
+    box-sizing: border-box;
     
   }
   .step {
     height: 40vh;
+    width: auto;
     cursor: pointer; 
     background: #e8e2e2;
     margin-top: 1em;
@@ -274,60 +302,7 @@
   }
 
   
-  * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box; /* Ensure consistent box model */
-  
-}
- html, body {
-  margin: 0; /* Remove default browser margin */
-  padding: 0; /* Remove default browser padding */
-  width: 100%; /* Ensure body spans full width */
-  height: 100%; /* Ensure body spans full height */
- 
-  overflow-x: hidden; 
-}
 
-.banner {
-  /* Make sure banner is pinned to the top */
-  top: 0;
-  left: 0;
-  display: flex; /* Center content */
-  z-index: 1; /* Ensure banner stays on top of other content */
-  background-color: rgb(242, 238, 239);
-  background-size: cover; 
-  /*background: linear-gradient(to bottom, #031436 15%, rgba(24, 29, 24, 0) 100%);*/   
-  color: white;
-  padding: 2rem; /* Increase padding for larger banner */
-  text-align: center;
-  font-size: 2rem; /* Larger font size for the banner title */
-  width: 100vw; /* Full viewport width */
-  height: 35vh; /* Adjust height for a larger banner (30% of viewport height) */
-  box-sizing: border-box; /* Include padding in width/height calculations */
-  display: flex; /* Center content */
-  justify-content: center; /* Horizontally centered */
-  align-items: center; /* Vertically centered */
-  margin-top: -5vh;
-  margin-left: -50vh;
-  margin-right: -50vh;
-  margin-bottom: 5vh;
-  position: relative;
-  border-bottom: 5px solid #73789ea4;
-  border-right: 5px solid transparent;
-  animation: borderSlideIn 1s ease-in-out;
-  border-radius: 10px;
-}
-@keyframes borderSlideIn {
-  from {
-    border-bottom-width: 0;
-    border-right-width: 0; /* Start with no right border */
-  }
-  to {
-    border-bottom-width: 5px;
-    border-right-width: 5px; /* End with the right border */
-  }
-}
 
 .mainheading h1 {
      /* Take up the left side of the banner */
@@ -379,17 +354,6 @@
     margin-top: 0vh;
     margin-bottom: 0vh;
   }
-  .banner .text img {
-    position: relative;
-    order: 2;
-    /* Align the image to the right */
-    /* Center the image vertically */
-    transform: translateX(-5%);
-    transform: translateY(5%); /* Adjust for vertical centering */
-    height: 160px; /* Adjust the height as needed */
-    width:10vw; /* Maintain aspect ratio */
-    margin-left: -1rem; /* Space between text and image */
-  }
     /* Optional: Style the scrollbar */
     .scrolly::-webkit-scrollbar {
     width: 11px;
@@ -415,7 +379,7 @@
 
   .text-container {
     position: relative;
-    flex: 1.3;
+    flex: 1;
     padding: 1rem;
     background-color: rgb(245, 238, 235);
     border-left: 5px solid #ed5701;
@@ -429,6 +393,7 @@
     overflow: auto; /* Allow scrolling if content exceeds height */
     word-wrap: break-word; /* Wrap long words */
     overflow-wrap: break-word; /* Ensure wrapping for text */
+    box-sizing: border-box; 
     
   }
 
@@ -474,14 +439,6 @@
     opacity: 0;
     transform: scale(1.05);
   }
-  .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    width: 100vw;
-    height: 100vh;
-    margin-top: 10vh;
-    margin-bottom: -10vw;
-  }
+ 
 
 </style>
