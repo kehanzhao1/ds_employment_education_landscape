@@ -118,7 +118,14 @@
   <h1>What skills are needed to become a data scientist?</h1> 
   <h2>From the requirements of 100 LinkedIn data science job postings, we compiled the essential education, hard and soft skill requirements asked by industries</h2> 
 </div>
-
+<section class="intro" class:intro-visible={introVisible}>
+  <h1> 🎓 Are degrees needed? </h1>
+  <p>
+    <span style="font-weight: bold; font-size: 2.2rem; font-family : 'Fact', sans-serif; color : steelblue">60%</span> of postings mentioned degree, 
+    <span style="font-weight: bold; font-size: 2.2rem; font-family : 'Fact', sans-serif; color : steelblue;">49%</span> mentioned Master's and 
+    <span style="font-weight: bold; font-size: 2.2rem; font-family : 'Fact', sans-serif; color : steelblue;">30%</span> mentioned PhD
+  </p>
+</section>
 <div class = 'subheading'>
   <h1>What do data scientists work on?</h1> 
   <h2>Despite being an interdisciplinary field, the key responsibilites of DS from 100 job posts can be summarised to 5 main tasks.</h2>
@@ -169,7 +176,7 @@
   .intro {
     margin-bottom: 30vh; /* Add space between the intro section and the container */
     margin-top: 1rem;
-    margin-right: 25%;
+    margin-right: 0vw;
     width: 90vw; /* Make the intro section span most of the page */
     margin: 0 auto; /* Center the intro section */
     text-align: center; /* Center the text */
@@ -208,7 +215,7 @@
   }
   .intro p {
     font-size: 1.5rem;
-    width: 20vw;
+    width: 15vw;
     height: auto;
      /*border: 3.5px solid #141a3e; Add a border around the p element */
     padding: 2.5rem; /* Add padding inside the p element */

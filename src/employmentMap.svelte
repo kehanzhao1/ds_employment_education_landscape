@@ -7,10 +7,10 @@
     let fullData = [];
 
      let width = 800;
-    let height = 700;
+    let height = 800;
 
     let proj = d3.geoMercator()
-        .scale(700)
+        .scale(850)
         .center([-98.35, 39.50]) //us center
         .translate([width /2, height/2]);
 
