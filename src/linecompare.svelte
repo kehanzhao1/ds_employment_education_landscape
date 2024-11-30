@@ -5,8 +5,8 @@
  export let value;
 
  let linemargin = { top: 40, right: 50, bottom: 40, left: 100 };
- let linewidth = 550 - linemargin.left - linemargin.right;
- let lineheight = 500 - linemargin.top - linemargin.bottom;
+ let linewidth = 500 - linemargin.left - linemargin.right;
+ let lineheight = 550 - linemargin.top - linemargin.bottom;
     //let chartW = width - margin.left - margin.right;
    // let chartH = height - margin.top - margin.bottom;
 

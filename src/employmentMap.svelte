@@ -6,11 +6,11 @@
     let data = [];
     let fullData = [];
 
-     let width = 800;
+     let width = 890;
     let height = 800;
 
     let proj = d3.geoMercator()
-        .scale(850)
+        .scale(800)
         .center([-98.35, 39.50]) //us center
         .translate([width /2, height/2]);
 

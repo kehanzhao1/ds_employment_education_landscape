@@ -122,6 +122,7 @@
 <section class="intro" class:intro-visible={introVisible}>
   <h1> 🎓 Are degrees needed? </h1>
   <p>
+    <br>
     <span style="font-weight: bold; font-size: 2.2rem; font-family : 'Fact', sans-serif; color : steelblue">60%</span> of postings mentioned degree, 
     <span style="font-weight: bold; font-size: 2.2rem; font-family : 'Fact', sans-serif; color : steelblue;">49%</span> mentioned Master's and 
     <span style="font-weight: bold; font-size: 2.2rem; font-family : 'Fact', sans-serif; color : steelblue;">30%</span> mentioned PhD
@@ -193,9 +194,10 @@
     margin: 0 auto; /* Center the intro section */
     text-align: center; /* Center the text */
     position: relative; 
-    height: auto; /* Adjust height as needed */
+    height: 100%; /* Adjust height as needed */
     display: flex; /* Center content */
     align-items: center;
+    justify-content: center;
     padding: 2rem;
     opacity:0;
     transform: translateY(20px); 
@@ -227,18 +229,20 @@
   }
   .intro p {
     font-size: 1.5rem;
-    width: 15vw;
-    height: auto;
+    width: 30vw;
+    height: 30vh;
      /*border: 3.5px solid #141a3e; Add a border around the p element */
     padding: 2.5rem; /* Add padding inside the p element */
    /* Optional: Add rounded corners to the border */
     background-color:       #ffffff;
-    border-left: 5px solid #ed5701; /* Add a top border */
+    border-left: 5px solid #cf5029b7; /* Add a top border */
     flex: 1 ;
     font-family: 'Lato', sans-serif;
     margin-left: 0vw;
-    margin-right: 20vw;
+    margin-right: 15vw;
     box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
   }
  
 
@@ -401,7 +405,7 @@
     flex: 1;
     padding: 1rem;
     background-color: rgb(245, 238, 235);
-    border-left: 5px solid #ed5701;
+    border-left: 5px solid #cf5029b7;
     border-radius: 12px;
     font-family: 'Lato', sans-serif;
     margin-left: 0vw;
@@ -409,7 +413,8 @@
     height:35vh;
     min-width: 300px;
     width: 40vw auto;
-    overflow: auto; /* Allow scrolling if content exceeds height */
+    overflow-y: auto; /* Allow scrolling if content exceeds height */
+    overflow-x: hidden;
     word-wrap: break-word; /* Wrap long words */
     overflow-wrap: break-word; /* Ensure wrapping for text */
     box-sizing: border-box; 
