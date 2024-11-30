@@ -154,7 +154,7 @@ const toggleBox = (id) => {
 
 <div class = 'subheading'>
   <h1>What do data scientists work on?</h1> 
-  <h2>Despite being an interdisciplinary field, the key responsibilites of DS from 100 job posts can be summarised to 5 main tasks.</h2>
+  <h2>Despite being an interdisciplinary field, the key responsibilites of DS from 100 job posts can be summarised to 4 main tasks.</h2>
 </div>
 
 <div class="boxwrapper">
@@ -389,7 +389,7 @@ const toggleBox = (id) => {
     font-size: 3rem; 
     font-family:  'Fact', sans-serif; 
     font-weight: 800; /* Set font weight to bold */ 
-    margin-top: 15vh;
+    margin-top: 20vh;
     margin-bottom: 5vh;
   }
   .subheading h2 {
