@@ -11,15 +11,15 @@
   let value;
   let data= [];
   const steps = [    {
-      heading: "How many jobs are there?",
+      heading: "🙇‍♂️How many jobs are there?",
       paragraph: "DS employment has grown rapidly from <50k in 2019 to 190k in 2023, much faster than statisticians and Software developers.",
     },
     {
-      heading: "Is the pay competitive?",
+      heading: "💰Is the pay competitive?",
       paragraph: "DS annual mean wage stands at 119k, lower than software developer's $138k, but higher than statistician $109K and national average $64k.",
     },
     {
-      heading: "Who employs the most DS?",
+      heading: "🤝Who employs the most DS?",
       paragraph: "IT related companies employ 11% of data scientists, followed by insurance",
     },
     {
