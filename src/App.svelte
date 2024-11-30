@@ -130,6 +130,11 @@
 
 
 <div> <Skillbarchart ></Skillbarchart></div>
+<div class = 'subheading'>
+  <h2>Comparing to a 2018 study, the current job market emphasize more on&nbsp;
+    <span style= "color :steelblue;"> Machine Learning, AI & LLMs</span> </h2>
+</div>
+
 
 <div class = 'subheading'>
   <h1>What do data scientists work on?</h1> 
