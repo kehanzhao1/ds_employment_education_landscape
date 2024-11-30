@@ -7,6 +7,7 @@
   import LineCompare from "./linecompare.svelte";
   import BarchartScrolly from "./barchartScrolly.svelte";
   import EmploymentMap from "./employmentMap.svelte";
+  import Skillbarchart from "./skillbarchart.svelte";
   let value;
   let data= [];
   const steps = [    {
@@ -126,10 +127,16 @@
     <span style="font-weight: bold; font-size: 2.2rem; font-family : 'Fact', sans-serif; color : steelblue;">30%</span> mentioned PhD
   </p>
 </section>
+
+
+<div> <Skillbarchart ></Skillbarchart></div>
+
 <div class = 'subheading'>
   <h1>What do data scientists work on?</h1> 
   <h2>Despite being an interdisciplinary field, the key responsibilites of DS from 100 job posts can be summarised to 5 main tasks.</h2>
 </div>
+
+
 </main>
 
 <style>

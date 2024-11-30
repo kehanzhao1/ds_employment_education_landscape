@@ -235,11 +235,10 @@ print(f"Number of jobs that mention a Master's degree: {count_master}")
 #49
 
 #%%
-bachelor = ['bachelor degree', 'bachelor', 'bs', 'b.s', 'bachelor of', 'undergraduate']
+bachelor = ['bachelor degree', 'bachelor', 'bs', 'b.s', 'bachelor of', 'undergraduate', 'degree']
 count_bach = df['Qualification'].str.lower().str.contains('|'.join(bachelor), na=False).sum()
 print(f"Number of jobs that mention a bachekir's degree: {count_bach}")
-#41
-
+#60
 
 #%%
 phd = ['phd', 'doctor of philosophy', 'doctorate']
