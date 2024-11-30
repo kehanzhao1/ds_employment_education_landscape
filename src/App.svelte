@@ -1,7 +1,7 @@
 
 <script>
   import Scrolly from "./Scrolly.svelte";
-  import { fade } from 'svelte/transition';
+  import { fly } from 'svelte/transition';
   import { onMount } from "svelte";
   import * as d3 from 'd3'; 
   import LineCompare from "./linecompare.svelte";
@@ -9,7 +9,6 @@
   import EmploymentMap from "./employmentMap.svelte";
   import Skillbarchart from "./skillbarchart.svelte";
   let value;
-  let data= [];
   const steps = [    {
       heading: "🙇‍♂️How many jobs are there?",
       paragraph: "DS employment has grown rapidly from <50k in 2019 to 190k in 2023, much faster than statisticians and Software developers.",
@@ -27,7 +26,23 @@
       paragraph: "R&D followed by IT pays over 115k annually",
     }
   ];
+  
+  let openBox = null;
+  // Titles and contents for the boxes
+  let boxes = [
+  { id: 1, title: '1. Building Machine Learning Models', content: 'Design and deploy cutting edge machine learning models to develop innovative solutions to business challenges.' },
+  { id: 2, title: '2. Analysis and Insights Discovery', content: 'Use statistical techniques to analyze complex datasets to uncover trends, drive product growth, streamline workflows and optimize processes.' },
+  { id: 3, title: '3. Collaboration Across Teams', content: 'Work closely with cross-functional teams, including product and engineering, to align data science initiatives with overall objectives.' },
+  { id: 4, title: '4. Reporting and Delivering Impact', content: 'Create dashboards, visualizations and report insights to technical and non-technical stakeholders to drive impactful results in the business.' }
+   ];
 
+// Function to toggle the box
+const toggleBox = (id) => {
+    boxes = boxes.map((box) =>
+      box.id === id ? { ...box, revealed: !box.revealed } : box
+    );
+  };
+ 
   let introVisible = false;
 
   onMount(() => {
@@ -142,6 +157,25 @@
   <h2>Despite being an interdisciplinary field, the key responsibilites of DS from 100 job posts can be summarised to 5 main tasks.</h2>
 </div>
 
+<div class="boxwrapper">
+  <!-- Image Section -->
+  <div class="boximage">
+    <img src="/robot.png" alt="robot Image" />
+  </div>
+<div class="workcontainer">
+  {#each boxes as { id, title, content, revealed }}
+    <div class="box {revealed ? 'revealed' : 'hidden'}" on:click={() => toggleBox(id)}>
+      <div class="box-content">
+        {#if revealed}
+        <p class="content" >{content}</p>
+        {:else}
+          <span class = "box-title">{title}</span>
+        {/if}
+      </div>
+    </div>
+  {/each}
+</div>
+</div>
 
 </main>
 
@@ -265,8 +299,8 @@
     width: 100vw;
     height: 100vh;
     margin-top: 10vh;
-    margin-bottom: -2vw;
-    padding: 0vh 2vw;
+    margin-bottom: -5vw;
+    padding: 1vh 2vw;
     box-sizing: border-box;
   }
   .scrolly {
@@ -320,13 +354,6 @@
     margin-bottom: 0.5em; 
   }
   
-  .spacer {
-    height: 10vh;
-  }
-
-  
-
-
 .mainheading h1 {
      /* Take up the left side of the banner */
     display: flex;
@@ -463,6 +490,79 @@
     opacity: 0;
     transform: scale(1.05);
   }
- 
+  .workcontainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3rem;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+  }
 
+  .box {
+    padding: 1rem;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    height: 180px; /* Fixed height for uniformity */
+    width: 350px; /* Fixed width for uniformity */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    border: none;
+    padding: 1rem;
+  }
+
+  .box-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+  }
+
+  .box-title{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Fact', sans-serif;
+    color: #ffffff;
+  }
+
+  .box.hidden {
+    background-color: #cf5029b7;
+  }
+
+  .box.revealed {
+    background-color: #e8e2e2; /* Light blue color when revealed */
+
+  }
+  .boxwrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    max-width: 900px;
+    margin: auto;
+    padding: 1rem;
+  }
+
+  .boximage {
+    max-width: 250px;
+    flex-shrink: 0;
+    margin-top: 20vh;
+    margin-left: -15vw;
+    margin-right: 3vw;
+  }
+
+  .boximage img {
+    width: 100%;
+    height: auto;
+   
+  }
+   
 </style>
