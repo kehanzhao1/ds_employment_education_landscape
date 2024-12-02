@@ -504,7 +504,7 @@ const toggleBox = (id) => {
     font-size: 4.5rem; 
     font-family:  'Fact', sans-serif; 
     font-weight: 800; /* Set font weight to bold */
-    margin-top: 35vh;
+    margin-top: 30vh;
     margin-bottom: 5vh;
   }
   .mainheading p {
