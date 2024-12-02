@@ -37,6 +37,7 @@
         .call(d3.axisBottom(xScale));
       d3.select(xAxis)
         .selectAll(".tick text")
+        .style("fill", "black")
         .attr("transform", `translate(6, 1)rotate(45)`)
         .attr("text-anchor", "start");
       d3.select(xAxis)
@@ -55,6 +56,9 @@
       d3.select(yAxis)
         .call(d3.axisLeft(yScale)
         .ticks(4, ".1f"));
+      d3.select(yAxis)
+        .selectAll(".tick text")
+        .style("fill", "black")
       d3.select(yAxis)
         .append("text")
         .attr("class", "title")
@@ -96,10 +100,13 @@
       .ticks(4, ".1f"))
       .on("end", () => {
         // change y-axis title
-        d3.select(yAxis)
-          .select(".title")
-          .text("Community College Count");
+    d3.select(yAxis)
+      .select(".title")
+      .text("Community College Count");
       });
+    d3.select(yAxis)
+      .selectAll(".tick text")
+      .style("fill", "black")
 
     // update data mapping for bars
     d3.select(marks)
@@ -150,6 +157,9 @@
           .select(".title")
           .text("Job Positions Count");
       });
+    d3.select(yAxis)
+      .selectAll(".tick text")
+      .style("fill", "black")
 
     // update data mapping for bars
     d3.select(marks)
