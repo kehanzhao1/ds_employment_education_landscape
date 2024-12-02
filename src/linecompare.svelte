@@ -82,7 +82,7 @@ const rawData = await d3.csv('ass2_data2.csv', d=> ({
 
         const colorScale = d3.scaleOrdinal()
             .domain(professions)
-            .range(['steelBlue', 'darkSalmon', 'darkSeaGreen']);
+            .range(['darkSalmon', 'steelBlue', 'darkSeaGreen']);
 
         // Create the x and y axes
         mainGroup.append("g")
@@ -246,7 +246,7 @@ const rawData = await d3.csv('ass2_data2.csv', d=> ({
 
     const colorScale = d3.scaleOrdinal()
       .domain(professions)
-      .range(['steelBlue', 'darkSalmon', 'darkSeaGreen']);
+      .range(['darkSalmon', 'steelBlue' , 'darkSeaGreen']);
 
     // Create the x and y axes
     mainGroup.append("g")

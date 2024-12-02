@@ -76,12 +76,33 @@ const toggleBox = (id) => {
   const CCPath = '/cc_with_coor.csv';
   let selectedVar = 'DS';
 
+  let sections = [0, 0.2, 0.4, 0.6, 0.8]; // Percentages representing scroll positions
+  let currentSection = 0; // To track which dot should be active
+
+  function handleScroll() {
+    const scrollPosition = window.scrollY / (document.body.scrollHeight - window.innerHeight);
+    currentSection = sections.findIndex((threshold, index) => 
+      scrollPosition >= threshold && (index === sections.length - 1 || scrollPosition < sections[index + 1])
+    );
+  }
+  function scrollToSection(index) {
+    const targetScroll = sections[index] * (document.body.scrollHeight - window.innerHeight);
+    window.scrollTo({ top: targetScroll, behavior: 'smooth' });
+  }
 </script>
 
 
 
-
+<svelte:window on:scroll={handleScroll} />
 <main>
+  <div class="progress-bar">
+    {#each sections as _, index}
+      <div class="dot {index === currentSection ? 'active' : ''}"
+      on:click={() => scrollToSection(index)}
+      ></div>
+    {/each}
+  </div>
+
    <div class="mainheading">
      <h1>DATA SCIENCE EMPLOYMENT AND EDUCATION</h1>
      <p>There is a growing demand for data scientists due to explosion of data; many education institutions have also began offering Data Science titled degrees and curriculum.</p>
@@ -117,7 +138,7 @@ const toggleBox = (id) => {
   </div>
 </div>
 <div class="subheading">
-  <h2>States like California and Texas are leading the employment of data scientists</h2>
+  <h2>States like California and Texas are leading the employment of data scientists.</h2>
    </div>
 <div>
   <EmploymentMap />
@@ -185,6 +206,13 @@ const toggleBox = (id) => {
   {/each}
 </div>
 </div>
+
+<div class = 'subheading'>
+  <h2>Key takeaway: to become a data scientist in 2024, one needs to have both cutting edge
+    <span style="color: steelblue;">technical skills in ML and communication ability.</span>
+  </h2>
+</div>
+
 
   <div class='subheading'>
     <h1>In the U.S., what does data science education at the community college level look like?</h1>
@@ -259,7 +287,15 @@ const toggleBox = (id) => {
 
   <SkillsBarChart />
 
+  <div class="acknowledgment">
+   <span style= "color :darkgrey;">Presented by  <span>  Kehan Zhao, Sarah Song, Atticus Ginsborg  <span style= "color :darkgrey;"> </span>
+   <br>
+   <br>
+   December 2024
+  </div>
+ 
 </main>
+
 
 <style>
    @font-face {
@@ -498,7 +534,7 @@ const toggleBox = (id) => {
   }
   .subheading h2 {
      /* Take up the left side of the banner */
-    display: flex;
+
     justify-content: center; /* Horizontally centered */
     align-items: center; /* Vertically centered */
     color: #6b6060d2; /* Set font color to black */
@@ -520,6 +556,10 @@ const toggleBox = (id) => {
     margin-top: 2vh;
     margin-bottom: 0vh;
     text-align: left;
+  }
+  .subheading span {
+ /* Blue color for the specific text */
+    display: inline; /* Ensures the span doesn't break into a new line */
   }
     /* Optional: Style the scrollbar */
     .scrolly::-webkit-scrollbar {
@@ -681,5 +721,46 @@ const toggleBox = (id) => {
     height: auto;
    
   }
+  .progress-bar {
+    position: fixed;
+    top: 50%;
+    left: 40px;
+    transform: translateY(-40%);
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .dot {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: lightgray;
+    transition: background-color 0.2s;
+  }
+
+  .dot.active {
+    background-color:#ed5701;
+  }
    
+  
+  .acknowledgment {
+    width: 100%;
+    padding: 15px;
+    background-color: #ffffff;
+    color: #271103;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    margin-top: 25vh;
+    margin-bottom: 5vh;
+  }
+
+  .acknowledgment span {
+    font-size: 1rem;
+    font-family: "Fact", sans-serif;
+    font-weight: 800;
+    
+  }
 </style>
