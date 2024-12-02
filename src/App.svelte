@@ -57,16 +57,15 @@ const toggleBox = (id) => {
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
-          // Trigger when .mainheading is no longer fully visible
           if (entry.boundingClientRect.top < 0) {
             introVisible = true;
           }
         });
       },
       {
-        root: null, // Use the viewport
-        threshold: 0, // Trigger as soon as the element enters/leaves the viewport
-        rootMargin: "-100px 0px 0px 0px", // Start observing 100px before it scrolls out of view
+        root: null, 
+        threshold: 0, 
+        rootMargin: "-100px 0px 0px 0px", 
       }
     );
 
@@ -76,8 +75,8 @@ const toggleBox = (id) => {
   const CCPath = '/cc_with_coor.csv';
   let selectedVar = 'DS';
 
-  let sections = [0, 0.2, 0.4, 0.6, 0.8]; // Percentages representing scroll positions
-  let currentSection = 0; // To track which dot should be active
+  let sections = [0, 0.2, 0.4, 0.6, 0.8]; 
+  let currentSection = 0; 
 
   function handleScroll() {
     const scrollPosition = window.scrollY / (document.body.scrollHeight - window.innerHeight);
@@ -128,7 +127,7 @@ const toggleBox = (id) => {
       {/each}
     </Scrolly>
   </div>
-  <div class="graph" style="position: relative; height: 400px;"> <!-- Adjust height as needed -->
+  <div class="graph" style="position: relative; height: 400px;"> 
     <div style="position: absolute; top: 0; left: 0; right: 7%; display: {value === 0 || value === 1 ? 'block' : 'none'};">
       <LineCompare {value} />
     </div>
@@ -188,7 +187,6 @@ const toggleBox = (id) => {
 </div>
 
 <div class="boxwrapper">
-  <!-- Image Section -->
   <div class="boximage">
     <img src="/robot.png" alt="robot Image" />
   </div>
@@ -303,25 +301,17 @@ const toggleBox = (id) => {
     src: url('/src/fonts/Fact-ExtraBold.woff2') format('woff2'),
          url('/src/fonts/Fact-ExtraBold.woff') format('woff'),
          url('/src/fonts/Fact-ExtraBold.ttf') format('truetype');
-    font-weight: 800; /* Extra bold weight */
+    font-weight: 800; 
     font-style: normal;
   }
 
   * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box; /* Ensure consistent box model */
+  box-sizing: border-box; 
   
 }
- html, body {
-  margin: 0; /* Remove default browser margin */
-  padding: 0; /* Remove default browser padding */
-  width: 100%; /* Ensure body spans full width */
-  height: 100%; /* Ensure body spans full height */
-  font-family: 'Lato', sans-serif;
-  overflow-x: hidden; 
-}
-/* Apply box-sizing globally */
+
 *, *::before, *::after {
     box-sizing: inherit;
 }
@@ -339,15 +329,15 @@ const toggleBox = (id) => {
   overflow-x: visible;
 }
   .intro {
-    margin-bottom: 30vh; /* Add space between the intro section and the container */
+    margin-bottom: 30vh; 
     margin-top: 1rem;
     margin-right: 0vw;
-    width: 90vw; /* Make the intro section span most of the page */
-    margin: 0 auto; /* Center the intro section */
-    text-align: center; /* Center the text */
+    width: 90vw; 
+    margin: 0 auto; 
+    text-align: center; 
     position: relative; 
-    height: 100%; /* Adjust height as needed */
-    display: flex; /* Center content */
+    height: 100%; 
+    display: flex; 
     align-items: center;
     justify-content: center;
     padding: 2rem;
@@ -356,22 +346,21 @@ const toggleBox = (id) => {
     transition: opacity 1s ease-in-out, transform 1s ease-in-out;
   }
   .intro.intro-visible {
-    opacity: 1; /* Fully visible */
-    transform: translateY(0); /* Back to original position */
+    opacity: 1; 
+    transform: translateY(0); 
   }
   @keyframes slideInFromLeft {
     from {
       opacity: 1;
-      transform: translateX(-100%); /* Start off-screen to the left */
+      transform: translateX(-100%);
     }
     to {
       opacity: 1;
-      transform: translateX(0); /* End at the original position */
+      transform: translateX(0); 
     }
   }
   .intro h1 {
-/* Add space between the h1 and p elements */
-    font-size: 2.5rem; /* Adjust font size as needed */
+    font-size: 2.5rem; 
     font-family: 'Lato', sans-serif;
     font-align: right;
     flex: 1;
@@ -383,11 +372,9 @@ const toggleBox = (id) => {
     font-size: 1.5rem;
     width: 30vw;
     height: 30vh;
-     /*border: 3.5px solid #141a3e; Add a border around the p element */
-    padding: 2.5rem; /* Add padding inside the p element */
-   /* Optional: Add rounded corners to the border */
+    padding: 2.5rem; 
     background-color:       #ffffff;
-    border-left: 5px solid #cf5029b7; /* Add a top border */
+    border-left: 5px solid #cf5029b7;
     flex: 1 ;
     font-family: 'Lato', sans-serif;
     margin-left: 0vw;
@@ -470,14 +457,14 @@ const toggleBox = (id) => {
     border-radius: 10px;
   }
   .step h2 {
-    font-size: 2rem; /* Adjust font size as needed */
-    margin-bottom: 0.5em; /* Add margin below heading */
-    font-family: 'Lato', sans-serif; /* Apply Lato font */
+    font-size: 2rem; 
+    margin-bottom: 0.5em; 
+    font-family: 'Lato', sans-serif; 
   }
   .step p {
-    font-size: 1.5rem; /* Adjust font size as needed */
-    padding: 1em; /* Add padding for better readability */
-    font-family: 'Lato', sans-serif; /* Apply Lato font */
+    font-size: 1.5rem;
+    padding: 1em;
+    font-family: 'Lato', sans-serif; 
   }
   
   .step.active {
@@ -485,7 +472,7 @@ const toggleBox = (id) => {
   }
   
   .step.active h2,.step.active p {
-    color: white; /* Change text color to white when active */
+    color: white; 
     font-weight: bold;;
   }
   section {
@@ -495,24 +482,22 @@ const toggleBox = (id) => {
   }
   
 .mainheading h1 {
-     /* Take up the left side of the banner */
     display: flex;
-    justify-content: center; /* Horizontally centered */
-    align-items: center; /* Vertically centered */
-    color: #ed5701; /* Set font color to black */
+    justify-content: center; 
+    align-items: center; 
+    color: #ed5701;
     position: relative;
     font-size: 4.5rem; 
     font-family:  'Fact', sans-serif; 
-    font-weight: 800; /* Set font weight to bold */
+    font-weight: 800; 
     margin-top: 30vh;
     margin-bottom: 5vh;
   }
   .mainheading p {
-     /* Take up the left side of the banner */
     display: flex;
-    justify-content: center; /* Horizontally centered */
-    align-items: center; /* Vertically centered */
-    color: #6b6060d2; /* Set font color to black */
+    justify-content: center; 
+    align-items: center; 
+    color: #6b6060d2; 
     position: relative;
     font-size: 26px; 
     font-family:  'Lato', sans-serif; 
@@ -520,24 +505,21 @@ const toggleBox = (id) => {
     margin-bottom: 10vh;
   }
   .subheading h1 {
-     /* Take up the left side of the banner */
     display: flex;
-    justify-content: center; /* Horizontally centered */
-    align-items: center; /* Vertically centered */
-    color: #271103; /* Set font color to black */
+    justify-content: center;
+    align-items: center; 
+    color: #271103; 
     position: relative;
     font-size: 3rem; 
     font-family:  'Fact', sans-serif; 
-    font-weight: 800; /* Set font weight to bold */ 
+    font-weight: 800; 
     margin-top: 20vh;
     margin-bottom: 5vh;
   }
   .subheading h2 {
-     /* Take up the left side of the banner */
-
-    justify-content: center; /* Horizontally centered */
-    align-items: center; /* Vertically centered */
-    color: #6b6060d2; /* Set font color to black */
+    justify-content: center; 
+    align-items: center; 
+    color: #6b6060d2; 
     position: relative;
     font-size: 26px; 
     font-family:  'Lato', sans-serif; 
@@ -558,10 +540,8 @@ const toggleBox = (id) => {
     text-align: left;
   }
   .subheading span {
- /* Blue color for the specific text */
-    display: inline; /* Ensures the span doesn't break into a new line */
+    display: inline; 
   }
-    /* Optional: Style the scrollbar */
     .scrolly::-webkit-scrollbar {
     width: 11px;
   }
@@ -597,10 +577,10 @@ const toggleBox = (id) => {
     height:35vh;
     min-width: 300px;
     width: 40vw auto;
-    overflow-y: auto; /* Allow scrolling if content exceeds height */
+    overflow-y: auto; 
     overflow-x: hidden;
-    word-wrap: break-word; /* Wrap long words */
-    overflow-wrap: break-word; /* Ensure wrapping for text */
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
     box-sizing: border-box; 
     
   }
@@ -629,7 +609,7 @@ const toggleBox = (id) => {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(128, 92, 82, 0.8); /* Semi-transparent background */
+    background-color: rgba(128, 92, 82, 0.8); 
     height:100%;
     width: 100%;
     color: white;
@@ -664,8 +644,8 @@ const toggleBox = (id) => {
     font-family: Arial, sans-serif;
     font-size: 1rem;
     cursor: pointer;
-    height: 180px; /* Fixed height for uniformity */
-    width: 350px; /* Fixed width for uniformity */
+    height: 180px; 
+    width: 350px; 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -696,7 +676,7 @@ const toggleBox = (id) => {
   }
 
   .box.revealed {
-    background-color: #e8e2e2; /* Light blue color when revealed */
+    background-color: #e8e2e2; 
 
   }
   .boxwrapper {
