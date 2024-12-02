@@ -225,13 +225,17 @@ const toggleBox = (id) => {
 
   <div class='subheading'>
     <h1>What community colleges near data science job hubs offer data science degrees?</h1>
+  </div>
 
+  <div class='textpara'>
     <p>
       In the following map, we use data from this <a href="https://huggingface.co/datasets/lukebarousse/data_jobs">source</a> to identify the cities in the U.S. with the post job postings for data related jobs.
       This data includes information on job postings made in the year 2023, for jobs related to data, such as data science, data analysis, and data engineering. 
       There were a little over 200,000 data jobs located in the United States in this dataset.
     </p>
-
+  </div>
+  
+  <div class='textpara' >
     <p>
       We then created a Voronoi diagram to analyze which data hub each community college is closest to. 
       Hover over each region to see which community colleges offer a data science degree.
@@ -388,6 +392,19 @@ const toggleBox = (id) => {
       align-items: center; 
       gap: 20px;
       padding: 20px;
+  }
+
+  .textpara {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    color: #000000d2; 
+    position: relative;
+    font-size: 20px; 
+    font-family:  'Lato', sans-serif; 
+    margin-top: 2vh;
+    margin-bottom: 0vh;
+    text-align: left;
   }
 
   .scrolly {
