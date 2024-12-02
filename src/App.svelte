@@ -105,12 +105,12 @@ const toggleBox = (id) => {
 
    <div class="mainheading">
      <h1>DATA SCIENCE EMPLOYMENT AND EDUCATION</h1>
-     <p>There is a growing demand for data scientists due to explosion of data; many education institutions have also began offering Data Science titled degrees and curriculum.</p>
+     <p>There is a growing demand for data scientists due to explosion of data; many education institutions have also began offering Data Science titled degrees and curriculums...</p>
    </div>
   <section class="intro" class:intro-visible={introVisible}>
     <h1> 👨🏻‍💻Hottest job of the 21st century? </h1>
     <p>
-    In this exploration, we scraped LinkedIn and community college data to uncover the employment, education landscape. Is the education offering meeting the industry's needs? And are community colleges equipped to offer the necessary training?
+    In this exploration, we scraped LinkedIn and community college data to uncover DS employment, education landscape. Is the education offering meeting industry needs? Are community colleges equipped to offer the necessary training?
     </p>
   </section>
   <div class="subheading">
