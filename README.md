@@ -4,7 +4,7 @@ Team member: Kehan Zhao, Sarah Song, Atticus, Gainsburg
 # Deployment 
 
 https://datascience-employment-education.netlify.app/
-best viewed full screnen 100%
+best viewed full screen 100%
 
 # Write-up
 
