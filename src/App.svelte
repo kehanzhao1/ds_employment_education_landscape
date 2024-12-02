@@ -8,6 +8,12 @@
   import BarchartScrolly from "./barchartScrolly.svelte";
   import EmploymentMap from "./employmentMap.svelte";
   import Skillbarchart from "./skillbarchart.svelte";
+  import DADSMap from './DADSMap.svelte';
+  import DSDegMap from './DSDegMap.svelte';
+  import DSClassMap from './DSClassMap.svelte';
+  import VoronoiMap from './VoronoiMap.svelte';
+  import SkillsBarChart from "./SkillsBarChart.svelte";
+
   let value;
   const steps = [    {
       heading: "🙇‍♂️How many jobs are there?",
@@ -66,6 +72,9 @@ const toggleBox = (id) => {
 
     observer.observe(mainHeading.node());
   });
+
+  const CCPath = '/cc_with_coor.csv';
+  let selectedVar = 'DS';
 
 </script>
 
@@ -176,6 +185,69 @@ const toggleBox = (id) => {
   {/each}
 </div>
 </div>
+
+  <div class='subheading'>
+    <h1>In the U.S., what does data science education at the community college level look like?</h1>
+    <h2>Data science education programs at four-year universities and at the graduate level have grown tremendously in recent years. Is this growth reflected at two-year institutions?</h2>
+
+    <p>
+      Community colleges are postsecondary schools that offer certificates and two-year programs that are aimed at preparing students for the workforce.
+      Students attend community colleges for a variety of reasons—some enter with the goal of transferring to a four-year institution, others aim to gain the necessary skills to immediately enter the workforce.
+      something something
+      <br>
+      <br>
+      In our research, we investigated every community college in the U.S. to see if they offered any certificates or degrees relating to data science and data analytics.
+      <br>
+      <br>
+      Below is an interactive map that shows the frequencies of: colleges that offer a data science certificate or degree, colleges that offer data analytics or data science certificiate or degree, or colleges that offer a data science introductory course.
+      Use the drop down menu to switch between variables.   
+    </p>
+  </div>
+
+  <div class='mapcontainer'>
+    <label for="var-select">Select Variable to Visualize: </label>
+    <select id="job-select" bind:value={selectedVar}>
+      <option value="DS">Data Science Degree or Certificate Offered</option>
+      <option value="DSDA">Data Science or Data Analytics Degree or Certificate Offered</option>
+      <option value="DSCourse">Data Science Course Offered</option>
+    </select>
+  
+    <div>
+      {#if selectedVar === "DS"}
+        <DSDegMap CCPath={CCPath} variableToVisualize="numDS" />
+      {:else if selectedVar === "DSDA"}
+        <DADSMap CCPath={CCPath} />
+      {:else if selectedVar === "DSCourse"}
+        <DSClassMap CCPath={CCPath} />
+      {/if}
+    </div>
+  </div>
+
+  <div class='subheading'>
+    <h1>What community colleges near data science job hubs offer data science degrees?</h1>
+
+    <p>
+      In the following map, we use data from this source ADD!! to identify the cities in the U.S. with the post job postings for data related jobs.
+      We then created a Voronoi diagram to analyze which data hub each community college is closest to. 
+      Hover over each region to see which community colleges offer a data science degree.
+      Please zoom in to explore!
+    </p>
+  </div>
+
+  <div class='mapcontainer'>
+    <VoronoiMap />
+  </div>
+
+  <div class='subheading'>
+    <h1>How do coding languages and frameworks at community colleges differ from jobs?</h1>
+
+    <p>
+      In the bar chart below, we visualize the frequencies of coding languages and frameworks we found in our research on community college data analytics and science programs.
+      Selecting the "Job Positions" button will animate the bar chart to show how the frequencies of these skills change from their prevelance in community college curriculumns, to actual job postings.
+    </p>
+  </div>
+
+  <SkillsBarChart />
 
 </main>
 
@@ -303,6 +375,15 @@ const toggleBox = (id) => {
     padding: 1vh 2vw;
     box-sizing: border-box;
   }
+
+  .mapcontainer {
+      display: flex;
+      flex-direction: column; 
+      align-items: center; 
+      gap: 20px;
+      padding: 20px;
+  }
+
   .scrolly {
     flex: 1.5;
     height: 70vh;
@@ -403,6 +484,19 @@ const toggleBox = (id) => {
     font-family:  'Lato', sans-serif; 
     margin-top: 0vh;
     margin-bottom: 0vh;
+  }
+
+  .subheading p {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    color: #000000d2; 
+    position: relative;
+    font-size: 20px; 
+    font-family:  'Lato', sans-serif; 
+    margin-top: 2vh;
+    margin-bottom: 0vh;
+    text-align: left;
   }
     /* Optional: Style the scrollbar */
     .scrolly::-webkit-scrollbar {
