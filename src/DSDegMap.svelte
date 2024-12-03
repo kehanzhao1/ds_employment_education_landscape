@@ -141,7 +141,8 @@
         .style("top", `${event.pageY + 10}px`)
         .style("opacity", 1)
         .html(`
-            Number of Schools: ${d.length}
+            <b>Total Number of Schools:</b> ${d.length}
+            <br><b>Number of Schools with DS Degree or Certificate:</b> ${d.numDS}
             ${tableHTML}
         `);
 }

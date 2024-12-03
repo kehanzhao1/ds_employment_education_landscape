@@ -220,7 +220,6 @@ const toggleBox = (id) => {
     <p>
       Community colleges are postsecondary schools that offer certificates and two-year programs that are aimed at preparing students for the workforce.
       Students attend community colleges for a variety of reasons—some enter with the goal of transferring to a four-year institution, others aim to gain the necessary skills to immediately enter the workforce.
-      something something
       <br>
       <br>
       In our research, we investigated every community college in the U.S. to see if they offered any certificates or degrees relating to data science and data analytics.
@@ -251,14 +250,14 @@ const toggleBox = (id) => {
   </div>
 
   <div class='subheading'>
-    <h1>What community colleges near data science job hubs offer data science degrees?</h1>
+    <h1>What community colleges near data job hubs offer data science degrees?</h1>
   </div>
 
   <div class='textpara'>
     <p>
-      In the following map, we use data from this <a href="https://huggingface.co/datasets/lukebarousse/data_jobs">source</a> to identify the cities in the U.S. with the post job postings for data related jobs.
-      This data includes information on job postings made in the year 2023, for jobs related to data, such as data science, data analysis, and data engineering. 
-      There were a little over 200,000 data jobs located in the United States in this dataset.
+      In the following map, we use data from this <a href="https://huggingface.co/datasets/lukebarousse/data_jobs">source</a>.
+      This dataset includes information on job postings made in the year 2023, for jobs related to data, such as data science, data analysis, and data engineering. 
+      There were a little over 200,000 data jobs located in the United States in this dataset, and we used these job postings to identify U.S. cities as data hubs.
     </p>
   </div>
   
@@ -281,7 +280,7 @@ const toggleBox = (id) => {
 
     <p>
       In the bar chart below, we visualize the frequencies of coding languages and frameworks we found in our research on community college data analytics and science programs.
-      The frequencies of these skills were then calculated for the data jobs dataset.
+      The frequencies of these skills were then calculated for the 2023 data jobs dataset.
       Selecting the "Job Positions" button will animate the bar chart to show how the frequencies of these skills change from their prevelance in community college curriculumns, to actual job postings.
     </p>
   </div>
