@@ -13,6 +13,7 @@
   import DSClassMap from './DSClassMap.svelte';
   import VoronoiMap from './VoronoiMap.svelte';
   import SkillsBarChart from "./SkillsBarChart.svelte";
+    import Counter from "./lib/Counter.svelte";
 
   let value;
   const steps = [    {
@@ -265,6 +266,8 @@ const toggleBox = (id) => {
     <p>
       We then created a Voronoi diagram to analyze which data hub each community college is closest to. 
       Hover over each region to see which community colleges offer a data science degree.
+      <span style="color: #00008B">Blue</span> dots represent the data hub city and the <span style="color: #ed5701">orange</span> dots are community colleges.
+      When hovering over a region, community colleges that offer a data science degree will turn <span style="color: #39FF14">green</span>.
       Please zoom in to explore!
     </p>
   </div>

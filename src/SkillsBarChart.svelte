@@ -4,8 +4,8 @@
 
     const jobskillsPath = '/counts.csv';
     const margin = {top: 50, right: 50, bottom: 120, left: 120};
-    const width = 600
-    const height = 400;
+    const width = 1000
+    const height = 700;
     const chartW = width - margin.left - margin.right;
     const chartH = height - margin.top - margin.bottom;
     let data = [];
@@ -43,7 +43,7 @@
       d3.select(xAxis)
         .append("text")
         .style("font-family", "sans-serif")
-        .style("font-size", "11px")
+        .style("font-size", "15px")
         .style("font-weight", "bold")
         .style("fill", "black")
         .style("transform", `translate(${chartW / 2}px, ${90}px)`)
@@ -63,7 +63,7 @@
         .append("text")
         .attr("class", "title")
         .style("font-family", "sans-serif")
-        .style("font-size", "11px")
+        .style("font-size", "15px")
         .style("font-weight", "bold")
         .style("fill", "black")
         .style("text-anchor", "middle")
